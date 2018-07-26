@@ -1,0 +1,67 @@
+Loved the video Abhijit. You assumed Justdial as a sample customer and talked to that which was awsome. You related to the customer usecases and solutions fitments along with Shaadi example. You did not read the script, but created you own smooth flowing talk (e.g. u said P3 & not P2, also talked about the performance parameters). Tech understanding was coming out well. Cool Composed talk. Next steps were very practical and clear.
+You clearly know the subject, liked the conversational flow, poise and confidence. Good pitch overall.
+cool composure, emphasis on case studies was good, demonstrated good understanding of the subject matter
+You did good time management.
+you added case studies now.
+
+Strong local use cases shared which relate better with customers
+Amazon credentials in ML space and our mental model of the 3 layers of ML were nicely articulated, backed with customer examples. Little more practice will add to the poise and confidence. Good pitch overall.
+
+good content and poise.
+much better effort here Sunil. While the first one looked smoother, this one is better because you have memorized your pitch good effort
+
+
+Good confidence, Poise, Good time management
+Great pitch! Nailed the three key messages of 1) Amazon's strong 20 year heritage in the AI-ML space, 2) the AWS three tier AI-ML stack (including our value in the frameworks tier of taking an open approach in contrast to Google for TensorFlow as their only main framework) and 3) the three main benefits of the overall AWS cloud for ML workloads of a) S3 as a scalable and cost effective storage tier for a data lake b) AWS is a highly secure environment and c) AWS has the broadest analytics portfolio on the market. Love working in the Pinterest & FINRA example cases. I also thought the articulation of the AWS analytics capabilities was particularly good.
+#the breadth coverage of the content (script) is quite good #correlating with potential customer use cases is good
+
+deep use of amazon use cases to showcase our AI/ML capabilities; strong use of references (e.g., Netflix, AHA, etc.); very complete use of the use cases; deep review of each level of AI/ML; nice tie backs to our infrastructure (P2, etc.);
+
+good additions of india instances of case studies. we should find out more and keep them handy. e.g. Haptik. good confidence, good poise. Engaging way of conversation.
+Good examples used to explain use cases
+Amazon credentials in ML space and our mental model of the 3 layers of ML were nicely articulated, backed with customer examples. Little more practice will add to the poise and confidence. Good pitch overall.
+You have stuck to the time limit & retained the key aspects of the pitch.
+
+
+Great hitting the three most important global points of 1) Amazon's 20 year heritage in AI & deep learning 2) the AWS three layer ML/DL platform (including hitting on the fact that we are taking an open approach to ML/DL frameworks and 3) the three main benefits of the overall AWS cloud platform for ML which are a) S3 as a scalable, cost efficient, data lake b) AWS is a highly secure environment and c) the broadest portfolio of analytics available anywhere on the market Also really good job to learn and use the Zillow and Netflix case studies. This was very effective to serve as strong customer references. Also great job covering all three AI services in depth. This was actually a bonus as we didn't expect to cover each AI service super in depth the above three global points were most important. So awesome to have worked this in. This also felt like your own pitch and NOT like you were reading from a script even though you hit all points and beyond and stayed on message. Great job!!!
+ strong understanding of AI/ML nice inventiveness on talking about AI Conclave in India
+
+
++ Amazon credentials in ML space + our mental model of the 3 layers of ML + length was close to the 5 min target
+
+Overall, good show. There is conviction in messaging.
+Awesome to put the pitch into the context of one your own customers and pretend you were pitching it to him to make this a bit of your own and relevant to your customers. Nailed the three core components of the message of 1) Amazon's strong 20 year heritage in AI-ML 2) the AWS three tier ML platform and 3) the three main benefits of the overall AWS cloud for ML of a) S3 as a scalable and highly cost effective data lake b) AWS is a highly secure environment and c) we have the broadest analytics tools portfolio beyond ML tools. Good job referencing Expedia and Pinterest for Tensorflow and that more customers run TF on AWS than on any other cloud. Strong articulation around different frameworks on AWS (TensorFow, MXNet, Caffe, etc.) and the point that we are working hard to roll out more managed platforms in this space because we believe its early days, which is a very important point. Also exceeded elaboration expected around the three AI services (Rek, Polly and Lex). And great CSPAN, Freshdesk and local India customer references!!
+
+Great job hitting the three main points of the message of 1) Amazon has a strong 20 year heritage in AI & ML 2) we have a three tier ML platform for all levels of users and 3) there are three main benefits for ML from the overall AWS cloud platform of a) S3 as a highly scalable and cost effective data lake b) AWS is a proven highly secure environment and c) we have the broadest set of analytics tools. Also did to work in a few of the customer references.
+connects well to his customer's use cases
+
+ok
+good content.
+better effort and timing
+Yashas demonstrates a good understanding of the ML suite of services and is able to articulate it well. He shows confidence, is succinct and effective.
+
+good overall pitch, case studies, content
+
+Darshan has a sound understanding of the platform and ML Services, is able to articulate the value proposition and shows confidence. He closed the call well.
+Himanshu presented the pitch with confidence backed with a clear understanding of our ML offerings. His pitch was concise, effective and presented well. He was also able to close well and on time.
+Succinct pitch, good close and completed on time.
+Nice showcase of AI/ML at Amazon; spoke about the three levels of AI/ML clearly; defined the users of each layer well; good use of customer references; good eye contact; tied AI/ML back to the infrastructure cleanly;
+Sai demonstrates a good understanding of the ML stack, did not read off of a script,
+good strong, engaging pitch. Good work here
+decent effort. Good content, and balanced delivery
+good effort. you have tried to understand and memorize the content, rather than read it off.
+good effort taken again. nicely done. Liked the fact that you memorized this pitch.
+good stuff Kotian. Strong, confident, good eye contact and prep. Nicely done. Would help to memorize the flow better
+Harsh is clearly spoken and the pitch was clearly communicated. He does a great job of walking through the layers. He did a good job of linking the AI/ML tools to the infrastructure services, and had a strong close.
+Nikhil demonstrates confidence and a deep understanding of ML. He has leveraged case studies well that has helped him articulate the value proposition well.
+Clear understanding of ML, was able to articulate without reading out of a script. Closed well and on time.
+
+Deep understanding of ML, sufficient examples to articulate and closed well
+the pitch is good, contains examples, good framework, basic data points and content + closed for second call, recommend next steps
+much better effort. nicely done! like the fact that you memorized this
+Ayush has a good understanding of the ML stack, is able articulate well and has used a good set of examples to do so. He didnt read thru, was confident and maintained good eye contact.
+
+good effort Kunal. Good content, and smooth. Good next steps, (case studies could be more)
+Great showcase of AI/ML at Amazon; made the three levels of AI/ML clear; good use of customer references; tied AI/ML back to the infrastructure cleanly; hit on the high points of AWS stack (security, storage, etc.); good transition to next steps; nice intro of Labs
+Great job of showcasing Amazon's history in AI/ML; clearly defined the 3 layers; great use of customer references; tied the AWS infrastructure services back to AI/ML cleanly and hit on the major services (e.g., S3, RedShift, etc.);
+Mayank showed confidence, good understanding of the ML and is able well. He was succinct and completed right in time.

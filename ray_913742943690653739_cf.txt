@@ -1,0 +1,1243 @@
+ko
+Very relatable, good pace, like how you presented the stack from bottom to top for Financial Service specific customers.
+
+Good job. Keep practicing this pitch to make your transitions seamless.
+Great job not using the script, I like the House of Cards example. Well done discussing outcomes and making this your own. Good job getting to next steps.
+Could tell you went through preparation. Loved how you positioned freedom of choice.
+Good job, like the role play set-up. I liked the other examples (e.g. Amazon photos and ML wizards). Keep practicing!
+Great job. You hit all the points.
+Strong understanding of ML/AI and how it relates to customer (Pinterest)
+Smooth delivery. Good understanding of Amazon's use of ML. Loved the close. Nice work.
+Adolfo, congratulations! You demonstrated deep knowledge on the AI/ML capabilities, you are able to convince a Client to go deeper on the topic and ask for a second meeting. I liked it very much.
+Succinct and good value proposition with some customer examples. Good to call out business leaders in CTA.
+Me parece que tu estilo es adecuado, muy pausado y conciso Haces buen contacto y generar confianza
+Good set up. He obviously knows the material and is well versed. His next steps were strong. He was adept at framing the categories in a clear way. All of the pertinent information was included in the pitch. His use of customer examples was strong and appropriate.
+Good job, good opening, good examples of what we have done. Good handle of content.
+I like how you emphasized data scientist operating at the infrastructure and platform level. You did a good job of linking AI/ML to our S3 and Analytics frameworks (i.e EMR, Redshift great description).
+Great job making the message your own and not just reading the script. Very good coverage of Amazon's AI heritage, the three tier AWS ML platform message and the message around our open approach in supporting all ML frameworks. Also liked that you used customer references from your own customers to really illustrate how customers are using the platform and to again make the message your own.
+Covered all the material. Used great customer examples. Good eye contact. Good job moving to next steps.
+Good job, liked the roleplay using DISH Network. Nice description of the 'managed layer" and AI services with an API call. Keep working on transitions. Good use of multiple reference stories.
+Dean provided good examples in each area/layer. In addition he made good eye contact throughout, covered the key concepts and had a good close.
+
+good pace, tone and eye contact. good description of AWS and customer use cases as well as analytics tools' capabilities. Strong closing with prescriptive next steps.
++ Great examples of Amazon's history on how we leverage ML in our businesses from retail to consumer device. + Good explanation of Lex, i.e. NLU & SR that powers Alexa. This makes it easy for customers to understand what is Lex. + Bringing up potential use cases for Sonic/customer
++ Great examples of Amazon's history on how we leverage ML in our businesses from retail to consumer device. + Relate ML to fruit-stand/customer's needs and highlights AWS AI customers + Good tie-in of storage, security and analytics with ML
+Cool, calm, collected delivery. Some good engaging poise and eye contact. Good customer choice positioning. Good focus on role for next steps.
+
++ Great examples of Amazon's deep history in leveraging ML across our businesses from retail to consumer device. + Good setup of the AI stack, highlighting use cases and users, as well as customer references for each layer + Nice tie-in of storage, analytics and security talking points to ML
+Michael doe a great job of hitting on the strong background in ML and the freedom of choice. He also does a good job of conveying several of the use cases, and tying the AWS infrastructure offerings to the AI/ML offerings.
+Good overall description of AI/ML services using a specific customer example. Good description of AWS analytics toolbox and the 3 layers of AWS AI/ML offering. Good pace and attitude to the delivery of the information in a cohesive manner.
+Good use of customer examples, covering each of the 3 layers Notes: ML nothing new to Amazon. recommendation engine, robotics in fulfilment center, Alexa virtual assistnat rich herritage at Amazon 3 layers of AWS ML stack bottom layer is for deep practitioners, data scientists who want to build/train/infer models with our p2 instance type many different frameworks, a ton of customers leveraging Tensorflow (Pinterest & Expedia), MXNet, Caffe fredom of choice on the framework that customers use, vs other provider we recognize that not every customer has deep experience. 2 primary services here, Amazon ML and Spark on EMR. Netflix leverages Spark on EMR with 25TB of data to run their recommendation engine Top layer is 3 services that allow builders to put intelligence in the application via API's. Rekognition image analysis: Polly text to speach: Dual Lingo helps 170M users learn foreign language Lex which powers Alexa speech recognition: American Heart Association to register users for walkathon ML is based heavily on data and our S3 storage service is perfectly situated. More ML data on S3 than any cloud provider Analytics: Athena for clusterless SQL, EMR for unstructured data, complex queries with Redshift Amazon is the clear leader with the most customer references Today, lets align your team with AWS experts, identify use cases that are important, and translate those into initiatives so we can help
+Great hitting the three main points of 1) Amazon AI heritage 2) the AWS three tier ML platform and 3) the three things you get for ML with the overall AWS cloud platform of Also nailed the point of AWS differentiation around taking an open approach to the ML frameworks to support all of these. And liked that you worked in the Zillow customer case and details.
+Great overview & illustration of Amazon's heritage in AI/ML. Well done on covering our three tier AWS ML platform and especially in working in some customer examples like Washington County Sheriff and the model examples in frameworks. Also really made this your own, did not feel like you were reading the script, which is huge!
+Great work covering Amazon ML heritage and translating that into AWS expertise and platform. Also awesome job on comprehensively covering the AWS three tier ML stack to accurate describe each layer and work in a few customer names. Also did great relating back the three important parts of the overall AWS platform you get that are required for ML: 1) scalable storage tier in S3 2) high security and 3) fullest offering of analytics tools. Overall great job! All of the key points hit!
+Very simple. Easy to follow. Liked the use of different case studies at each level of the stack and who each level was recommended for.
+Good job covering what we support. Like the customer use case about NFL stats. Seemed very natural towards the end compared to the beginning. Good job wrapping it up and summarizing the benefits.
+
+
+Always love your enthusiasm. Great natural transitions and covering all 3 layers. Covering use cases on all layers with your customers. You make me so proud!! Great explanation of rekognition. Very natural presence. Its clear you understand the value of AI/ML. Good ending.
+Good coverage of each service Notes: Amazon has been using ML for the past 20 years to enhance user experience vai recommendation engine. Echo, AmaoznGo built on ML. have thousands of ML experts in house who's expertise we have leveraged 3 layers Deep Learning, example is Zillow who provides home prices, leveraged p2 instances and DL AMI AWS provides the ability to chose any framework of choice for their use case Machine Learning, remove heavy lifting. Spark on EMR: Netflix 25PB in S3 AI Layer, Rekognition for imagry analysis, Polly for text to speech, Lex technology that powers Alexa ML is powered by data, S3 is the largest data stores in the world, 11 9's of durrability next steps, touch base with your team and our experts to explore your use case.
+Great use of examples around Amazon "Drinking their own champagne" Excellent transitions from layer to layer Nice Job of an example per layer and reference to things to come in middle layer Washington County example is powerful
+Good time, cadence. Great explanation of the layers.
+ Really good engagement style, your tone and pace were very good Good explanation of the 3 levels, and related well to the realistic practicalities of most customers Good use of customer case studies Perfect length!
+Hit all the points and very clear and articulate.
+Well laid out. Transitions lead me through the conversation was clear.
+Good poise and some good eye contact. Clearly delivered. Liked the way you tied the layers to the data platform.
+Overall, this was a really strong preso, hitting all of the major points. Mike did a great job in conveying the use of use cases, including a personal example. He also did a great job of linking the AWS storage to the AI/ML story.
+Monica did a great job of covering most of the main points with a conversational approach. She made good use of the case studies and came across as confident and knowledgeable, and neatly linked together the infrastructure assets to the AI/ML assets.
+pitch was very good conversational Great use of relevant case study and tie directly to the customer scenario Good diving deep into the case studies relevant to specific 3 layers (not just a list of companies).
+You seem to know the ML cases well. Closing was good overall, but CTA for customer is missing.
+Good explanation on the platform , services , Clear and well understood , Good next step and call to action , not overselling and well described
+
+Great improvement in delivery!
+Super great pitch. Love the relatability you brought in. Laughing at the beer service example but makes the story interesting.
+
+Nice tone and flow in presentation.
+Very cool use of poly, love it!! Good content, delivered very comfortably
+I liked the content in the front tying into Amazon.com and Nordstrom. You were the most comfortable in this video.
+Nice going! Clear, concise and energetic!
+Very well delivered, comfortable and credible. Didn't sound like you were reading a script.
+Really great job! Very clear, good use cases.
+Love the way you used a customer, relatability and closing!
+Great pitch Mike! Engaging, made strong eye contact and message was concise. You hit all key points and you eliminated the fluff.
+Great job completing the mission and making it your own. You kept the overall pitch to 5 minutes which was great. You provided a lot of great case study information within the pitch.
+
+Good pitch Dave, smooth delivery. You covered the history of Amazon in the space and the important services powered by AI/ML we use to enable better customer experiences. You painted a good picture of how we think about ML today and in the future and specific use cases that the customer can relate to. I also liked that you took time to explain concepts like the Data Lake.
+Nice job. Got the message across well, spelled out next steps and kept the flow going.
+Really good, smooth and confident. Good content selection
+good work not reading from a script, that is the best way to make sure you can eventually deliver this to customers.
+Nice WeWork location for filming! Good job customizing for Activision as follow up to Matt Wood session. Good job talking through the layers and next step for workshop.
+Clean, simple, easy to understand. Good use of case studies.
+A\V problem, Please resubmit
+Very good delivery, you appear very comfortable with the content.
+Great job completing the mission. Nice use case and well spoken. Strange how you mentioned diapers and strollers! :) Thanks again for completing!
+
+Good understanding and pitch of products that included multiple case studies.
+Good content, good pace and overall presentation
+Great job completing the mission. Great job using local references.
+Great job summarizing the BD paper and making it yours. I get the sense you can articulate the AWS AI/ML message to your customers from this video.
+Good Pitch Tom I listened to your delivery twice because it didn't quite follow order of the script not a bad thing. You clearly made this your own. You came across as confident and spoke as actual conversation might unfold. Also you hit most of the major points in the time allotted.
+David did a good job of sprinkling in use cases throughout. He was succinct and clear in his approach, yet hit most of the key points and had a good conversational flow.
+Good delivery, very comfortable with content. Good emphasis on differentiation.
+Great job completing the mission. You'll want to include more customer case studies and even better use a local LA based customer example
+Enjoyed how you simplified so that ML sounds accessible to anyone. Came across as a trusted advisor.
+Great pitch Chris! Especially loved the specific FINSERV examples of places where AI/ML are used and can be used. Delivery was dynamic, good eye contact. Proposed next steps were tailored to customer interest. Points for the Gluon announcement!
+Great job Rick. Love the golf clubs in background btw! Like how you introduced the 3 layers and how you emphasized and positioned choice on AWS. Nice job bringing home the close about the combination of all the things discussed. Good job on next steps.
+This was great. Great work starting right from the beginning to put this into your own words and make the pitch your own but also staying right on message. Loved the TuSimple, Zillow and Netflix customer references and to make these applicable to your type of enterprise customer. Nailed the three core components of the message of 1) Amazon's strong 20 year heritage in AI-ML 2) the AWS three tier ML paltform and 3) the three main benefits of the overall AWS cloud for ML of a) S3 as a scalable and highly cost effective data lake b) AWS is a highly secure environment and c) we have the broadest analytics tools portfolio beyond ML tools. Great job calling out our open support of frameworks and ow we are so open that we will support Google and Microsoft's frameworks in addition to MXNet. You comprehensively covered the three tiers (ML/DL frameworks on GPU infrastructure, managed ML platform like Spark on EMR and our three AI services), I was impressed with the detail you were able to incorporate here, went above and beyond the script detail.
+Great delivery Carmen! You clearly made the script your own. Flow was smooth, eye contact was engaging and you painted a clear picture of Amazon's history in the space, our point of view and approach to staying ahead of the market to meet the needs of our customers. You also eliminated the fluff that can make this message drag out.
+Very enjoyable use of voice and tone and engaging delivery. Hit all of the key messages and core points and value prop from the script.
+Great natural style. Hit all the points.
+Great job on content associated with AMZN heritage, 3 layers, frameworks CHOICE (nice callout on MSFT partnership announcement), S3 and Analytics differentiation. Good on summary.
+Nice setup and focus on Corus and their needs and relevance to them. Very clean, clear, enthusiastic, positive, confident. Nice job putting your own approach vs. closely following the script.
+-Great opening looks and feels genuine around connection with content Great use of customer examples Great transition from layer to layer on the stack Good close
+Good on heritage. Good on bottom and top layer. Nice job differentiating S3,
+Nice job Jeff! Very good knowledge of our AI/ML services, Amazon history/use cases and customer case studies. I like the mention of Gluon and continued innovation. Good close on next step/meeting
+Great job Ryan! Strong knowledge of our AI/ML servicecs, Amazon use cases and customer stories. Love your Amazon Go story! Good eye contact. I like your humor Ryan, different strokes for different folks. Good close for next meeting.
+I really liked how you persoanlized your Amazon examples and brought your customer 3M into the conversation in meaningful ways. You had a strong delivery of the three layers with customer examples as well as relating it back to your customer. Great job and congrats for passing!
+Good opening around our AI/ML history Good eye contact, confidence in describing the content Like the explanation around the expertise/talent pool Great example explanantion of CSPAN Like the EBC suggestion
+Your enthusiasm is always a strength for you in these.
+
+You have good energy in your communication. I've eaten dog food? ;)
+Dan spoke clearly and concisely and made good eye contact most of the time. His confidence in the offerings was good, and his close was natural.
+Great flow on AMZN heritage, the 3 layers, good use of references like Zillow and Netflix, I really like the specific CBSi use case. Good on S3 as differentiator. Great job, John thanks!
+Great job, Paul. Very good on heritage, 3 layers, references, data lake/S3 and analytics as differentiators Good summary.
+Hey nice couch. Nice job with intro and framing how Amazon embeds ML into everything we do (nice depth here). Like how you framed the choice that we offer for frameworks. Nice job talking about the 3 layers. Cool next step as immersion day.
+Great definition of layers Good job with eye contact looking away allow you to tell a story and not look like your are reading You sound like you really know the material good use of CSPAN LOVE the ending
+Great job Monica! * I liked the way you broke down into the 3 types of Machine Learning users/consumers * Liked your example of Acquia, as well as Liberty Mutual example. Your pitch is most powerful when you can talk about how customers are using Machine Learning on AWS, and get to that next level of detail.
+-Short and Sweet followed a script good eye contact
+Nice job Carly. Good intro, overview of Amazon's ML history, our platform and customer case studies.
+Covered all main points/themes and appropriate length. Clear communication. Submitted on time before most on the team.
+Very comprehensive as you hit all the main points during your pitch. It also flowed very naturally and did not seem scripted. Great job!
+Good use of Amazon examples around ML/AI Great use of layer definitions and examples per layer
+* Liked how you tied in Amazon's ML background. * Good discussion of the 3 layers * Concise delivery. * Really good tie in to what it may mean for the customer.
+Good insight and detail on Zillow and Netflix case studies. Thought you had a good knowledge of managed services like Lex and Polly.
+Great job completing the mission. Good job making it your own and using your local customers use case.
+Nice overview of our AI/ML services, Amazon heritage/use cases and customer case studies. Strong knowledge of AWS ML. Good close for next step meeting.
+Loved the Alexa example. Good description of storage offerings. I liked how you used your own customer examples.
+Great poise and relaying to customer needs !
+Good job Makenna. Nice overview of Amazon's ML experience, customer references/use cases, our platform. This was a lot to cover.
+Hit all of the key points of the script and the case studies. Nice summary of the key points. Hit the Call to Action.
+Great job getting the mission complete.
+ Fantastic opening; you established expertise and credibility (both yourself and AWS) quickly Excellent tone and pacing. You had a strong positive feel that transfers very well to the customer Good positioning of AWS vs. our competitors Great overview of the 3 layers, using descriptions, customer references, and use cases for Rekognition, Lex, and Polly Very good transition to S3 integration, and you also stressed the importance of data to support ML
+Great job on AMZN heritage and on middle and top layers of ML stack. Good on S3 and analytics as differentiator. OK on next steps. Good mention of FINRA, Pinterest and Netflix as examples.
+Good time given the content and hit major points. Much better on time than I was ;)
+Good job on content inclusive of heritage, 3-layers, references, S3 and Analytics differentiation, brief summary and proposed next step.
+Thanks for resubmitting, Manny. Your content is strong and confidence improved from previous submission.
+ Good tone and pacing. I love the passion in your pitch as it displays and transfers your excitement! Great overview of the 3 levels of ML, including customer examples of Rekognition, Lex, and Polly Excellent integration of S3 and the importance in ML
+You clearly were speaking without a script, which was thoughtful and you had a lot of information to share. You hit on other areas off script but were able to weave them in effectively.
+Liked how you started off by defining ML. It simplified a rather mystical topic for many. Liked that you use new case studies, it made me believe you have and continue to internalize the information. Really enjoyed that you defined each of the products (ie. Alexa, our ). Liked that you brought in past conversations.
+Great job on AMZN heritage, the 3 layers, and references such as Expedia and CSPAN. Good on Data Lake/S3 as differentiator and mentions of Athena and EMR. Next steps was clear.
+* Strong close on the next steps for a workshop * Good understanding of the 3 ways customers can engage with us for Machine Learning. * I liked the example of iRobot using Machine Learning for their next product
+Good knowledge of our AI/ML services, our history and customer use cases. I love the Matrix Analytics use case. Good eye contact and confidence. Closed for next meeting.
+Great job on AMZN heritage, the 3 layers, references including Zillow and Netflix. Good on S3 and Analytics differentiation. Nice job on summary and next steps. I liked how you worked LexisNexis into the conversation.
+ Excellent tone and pacing, and a really good engagement style You did a great job of establishing credibility for both yourself and AWS with your product Very good description of the 3 levels of ML, and you also integrated good customer references for Rekognition, Polly, and Lex. The only miss was a customer example of Polly. Very nice transition to S3 and you established the importance of a strong data foundation to have ML run against
+* Good discussion of 3 layers framework * Like the example of Zillow * Good discussion of the broader set of AWS services
+Simple. Clean. Easy to follow. Very easy to relate to the daily experiences that you presented on ML for hospitality industry.
+Good flow. Could tell you prepared. Liked the use of customer examples. Good description of Data Lake.
+Eric, good job articulating our history in the space and touching on all the elements of the message, articulating what our AI services do (like Polly ) and customer examples like Zillow, etc 
+ Good tone and pacing; the pitch felt very conversational and informative. It did not feel like you were over-selling. You provided a good overview of the 3 levels of ML, and you gave some good examples of how our products (Rekognition, Lex, and Polly) fill in the top level. You also gave good overview of what our products do, along with customer examples (including French language support for Polly!) Good transition to S3, including the importance of a solid data store as a foundation of an ML strategy
+Great job setting expectations with the value of ML immediately up front Nice job of talking about how we drink our own Champagne I like the connection to Data Lakes and expertise in that arena Clean transitions in the beginning and mention of clients
+ Really good intro; you established rapport and you were able to establish credibility for both yourself and AWS You did a nice job of establishing AWS as an experienced provider of ML through our own experiences Great overview of the 3 levels of ML, outlining what each level is and how it's relevant. Also good you emphasized choice in how the customer deploys ML. Good overview of our products at the top level (Rekognition, Lex, and Polly), including what each product does Very good transition into the importance of S3, emphasizing the significance of a robust data store (bonus points for outlining Athena and Redshift!) Good summary of what you told them
+Dave, great pitch your delivery and eye contact were engaging. You did a nice job of setting the context about our experience in the space and making the tech behind our innovations easily understood by the customer (ex. Alexa). You hit all key points around the three levels of our ML framework and customer use cases.
+Nice job Sean. Very good knowledge of our AI/ML services, Amazon use cases and customer case studies. Good close for next steps/meeting.
+Great energy, and command of the material! I like your conversational style, combined with the understanding our ML case studies. Good work describing the 3 ways we can support ML. Great work here!
+Ken, you did a great job of boiling down the critical points of the message and staying on the time target. You concisely explained each layer of the ML stack and gave relevant examples of the tools at each level and customer use cases like Finra etc 
+Good job Webster! *Strong close on the next steps in terms of a work shop. *Appropriate length for a teaser pitch. *I also liked your command how Amazon is leveraging Machine Learning in its own businesses.
+* Great job! * Really clear, easy to follow framework by talking about the three types of users (Deep Learning experts, folks who want a managed model, and developers with no ML experts). * I like the example of Zillow, and how you got into a bit of details with them. * Good strong close and next steps.
+Great speaker and engaging with enthusiasm. Covered all of the material through the script. Referenced the case studies from the script. Went for the follow up at the close.
+Nice eye contact. Good references to Amazon retail. Good walk through of layers and services. Way to link the services back to real world examples (Alexa). Rich content in great amount of time. Especially with the introduction. Good close.
+Good references on Amazon and all the different use cases. Drones, Go, Alexa great job! Nice eye contact. Were doing great on the Tensor Flow pitch, until we said "more than any other platform" Not Amazonian. Need to just keep it data driven Nice walk through on 3 layers. Very engaged all the way through, great pace, very clear. Nice job on CSPAN use case. Nice job on the close. If you are going to pitch the workshop and/or session, needs to be a bit more concise and add value.
+Really good flow. Great content and nice close.
+Very good eye contact, comfort and confidence. Solid on the customer references. Hit all of the core points from the script. Great summary of the ML+s3+ analytics message at the end in particular.
+Nice eye contact, great pace, and illustration of Amazon's deep knowledge (love the word heritage). Nice walk through the 3 layers, and who its applicable to. Nice reference to partnership and collaboration. Way to make this your own. Wow! Way to compliment MS too. Really liked that touch. Very Amazonian!!
+Scott, good job articulating our history in the space and touching on all the elements of the message.
+Awesome personal story about your trip and the recommendation engine, and Amazon Go. Great job on citing the choices for our customers. I like the pay as you grow. Think you meant to say that, if you didnt, incorporate that into your daily speak. FANTASTIC on Names.org. Really related back to your day-to-day Good close.
+Great use cases via Amazon retail, and showcasing the knowledge. Nice job on taking customer through the 3 layers. Nice job on summary and close Overall nice job Jason. The real ding was on the time.
+Good transitions
+Nice references on linking services back to retail. Very real world. Great walk through on layers and services. Good close. Overall good. The recording quality was making it hard to stay engaged. Content was solid. Next time stand up while you do this, think of it as a cold call. Also, looked like better eye contact was needed.
+Simple. Clean. Easy to understand.
+Confident. Easy to follow your line of thought.
+Great job completing the mission. You provided a lot of data point and I get the sense that you can better present the ML/AI platform to your customers. Nice job using Aira as a local reference, I would state a local customer, vs a personal example.
+
+You have the data points
+Authentic & relatable.
+
+
+Great customer examples
+Three layers were clear. Really liked that you were clearly internalizing it and making it your own.
+Joleyn realistically started the presentation as a follow-up to previous conversations. She used good customer examples and finished very strongly by referencing actual work happening at her main customer. She has a good command of the material and delivered it appropriately.
+Nice references to Amazon. You made it much more personable than most. Cited what most others did, but just went another layer deeper. Great job on CSPAN. Way to make it personal and personable. Same thing on rekognition. Way to make it personal.
+Mark took the script and organizing the pitch in his own words which resonated well with the audience. Good length, smooth presentation, and covered key points.
+1. Delivered AWS offering and it's strength clearly. 2. Explained alignment of AWS platform service such as Data Lake, EMR and so on.
+Great job!! You looked/sounded very comfortable and confident with the pitch. Just be sure to tailor it to each customer.
+Captured all the key talking points and had a clear next step request
+Good knowledge of solutions. Speaks clearly.
+
+Very good application of specific service (ReKognition) to clients business.
+Clear transitions from one part of the conversation to the next.
+Good description and use cases for top layer m/l services.
+Really enjoyed listening to this as it was simple, easy to understand and tailored to my needs as the customer. Particularly liked how you clearly connected how they are using ML in their personal life now to how they can be doing it in their business. Very actionable next steps. Good job!
+Good adoption of the M/L pitch example. Hit all the key points.
+Good job. Easy to engage style.
+good adoption of the script example. hit all the key points.
+Quite engaging, good pace and flow of delivery, cited many good examples. Confident.
+
+Thiago, i liked that you demonstrated several case studies and examples of ML applicalibity as well as you showed knowledge of the AWS ML solutions.
+Good transitions. Good passion for AWS.
+Great content and a nice balance between business use examples (Amazon's and others) and description of layers and for whom each is appropriate. Very clear and well structured.
+
+Good transitions. Easy to follow your line of thought.
+Ted conveys a strong history of AI/ML at AWS as well as some client use cases. ted has a very natural style and a good talk track covering most of the key points.
+Mike did a great job of building up our history in AI/ML. He's convincing and tells the story clearly.
+Well done, like the story about your daughter using Alexa!
+Nailed to heritage of AWS in AI and the message of our three tier ML platform. Also really awesome job on including detailed customer references to illustrate the various tiers. You knowledge and command of the references was my favorite part! Especially knowledge of the local Brazilian references to make this relevant for your own customers! Fantastic elaboration on each of the AI services. This was thorough, above and beyond the message in the pitch and really made it your own message.
+
+Good to talk about own customer example and relationship but not sure if TMK are reference-able for machine learning (?) May be better to leverage CapitalOne, FINRA, etc.
+Enjoyed how you related their Amazon experience they had 20 years ago to ML so it was brought to life for them. Good pace. Good passion in your voice. Liked that you defined Alexa and kept it simple as it related to ML. Easy to follow.
+
+Good tie ins to .com. Connecting the dots with Amazon business. asked for next steps.
+Good transitions and use of case studies.
+Wow! This is awesome! Really great insertions of specific customer contacts which would resonate with Cambia. Great job!
+Clear, articulate, and hit all the points.
+Simple. Easy to follow.
+Good use of references CSPAN, Zillow, etc. Good pace
+Nice job Dustin. Thank you for your effort and your strong messaging!
+
+Great use of many concrete customer examples and covering each of the 3 layers. Clearly articulated AWS as leader and innovator in ML with many customers already running production workloads. Notes: Amazon.com, robots in fulfilment, Alexa NLP, package delivery computer vision democratrize and make that knowledga available to everyone 3 layers compute & framework, self managed, expert practitioners framework: differentiates AWS from other cloud providers more Tnesorflow thank any other cloud, Pinterest & Expedia Caffe for computer vision Amazon finds MXnet to be most scalable Platform services: Amazon ML, SparkML on EMR, container services. Zillow uses platform services to run Zestimate area of abstraction Top layer of the stack API services, Rekognition: C-Span, Polly: Dual Lingo, Lex: Liberty Mutual chatbot need highly available and secure data store (Data Lake), S3 is exactly that. EMR for unstructured at PB scale, Redshift for Exabyte scale. all of these things have differentiated AWS, reason we have more ML use cases and case studies than any other cloud provider
+Overall good pitch with good eye contact but it seemed it was being read from a script. Did a good job conveying AWS heritage in ML and showing we've been using it for some time. You also used many customer examples showing breadth of customer adoption. Clearly explained the 3 layers with examples. Touched on security as a key component. Good closing and call for action.
+Awesome job nailing the three main global points of our ML message of: 1) AWS has a 20 year heritage in AI-ML 2) We have a three tier AI-ML platform for every user from infrastructure/frameworks up to AI services and 3) there are three main benefits of the overall AWS cloud platform for ML of a) S3 as a scalable and cost effective data lake b) AWS is a highly secure environment and c) AWS has the broadest portfolio of analytics tools to compliment the ML tools. Really nailed these points with a clear message!! Great job calling out and talking through how we contract with Google in a classy and effective way. Also good handle of some of the customer references. And you made this pitch your own, very smooth delivery and command of the content; did NOT seem like you were reading a script.
+
++ Great examples of Amazon's use of ML in our businesses + Good explanation of Lex, i.e. NLU & SR that powers Alexa. This makes it easy for customers to understand what is Lex. Good use of customer references , how they are using AWS AI services and why
+-good conversational manner, good eye contact. good introducing customer case studies based on the relevant 3 layers of ML demo of Alexa (cat) was funny moved to more compelling use case for Liberty Mutual chat bot. Good next steps challenging the customer on how they envision ML enabling them to do business better.
+Good tie in of ML to infrastructure value points, and reference to various supported frameworks and other technical elements.
+Touched on all critical components of the solution. Great ending with next steps.
+Good job touching on all points. Good ending and wrapping it all up. Liked how you handled the next steps. Good understanding of why they would choose our platform.
+Simplified the explanation of ML and made it understandable for someone who has zero experience with the concept. Very natural! Lot of improvement from past ones.
+Great job breaking down the aspects of ML being used by Amazon. Good job at making your own and not just following the script, it is clear you understand it.
+Great opening. Good job covering all layers. It comes across that you have study AWS ML/AI. Love the Takt call out now let's get the RI : ) Good ending and covering next steps.
+Present in a clear manner with great eye contact. Good example with Orbital Insights. Good job touching on all the platforms and how they can leverage it. Covered a lot of material.
+
+Im buying ! Well done . Wove in the data strategy you covered the frameworks and competitive advantage well.
+Great poise and pace of speech. You varied it well keeping the audiences attention. Good call back to S3 at the end many didn't highlight that enough.
+Good confidence. Clearly understand the space and how to engage a customer
+
+good adoption of the sample script. hit all the main points on M/L with linkage to data strategy and S3.
+Strong confident, excellent clarity, script elements followed accurately
+
+Great job! Love the many ways you tied our ML stack to their business with potential use cases. You hit on all of the key elements in terms of big topic areas with nice examples per area.
+ good customer example on the middle layer again good examples at the top layer personalization on the industry (GE > predictive maintenance) propose clear next steps
+Very confident. Liked how you simplified how Amazon uses ML in daily life.
+Clear. Confident. Well-built conversation.
+Better than average eye contact. excellent conversational tone. I do like making the pitch your own through modest customization. Solid next steps with added content.
+Excellent eye contact, strong pacing and confidence throughout. Well-prepared for the messaging.
+ Really good use of real life examples (TMV), which emphasizes your credibility and experience Good overview of the 3 levels, but make sure you use examples of all (not just Rekognition) Good overview of S3 integration, and it's importance Solid next steps, but provide some timeframe for the meeting
+Good job accessing customers interest and level of knowledge. Good reference to the AI heritage like how you opened with recommendation engine. On the three layers, good job on talking about choice of AI engines. Good examples of image recognition. Good reference to operational experience on S3 and the core infra. Good job on following up with big data and analytics.
+Super clear on the three main global points of our message of 1) Amazon's 20 year heritage in the AI-ML space 2) the AWS three tier ML model and 3) the three main benefits of the overall AWS cloud platform for ML of a) S3 as a scalable and cost effective data lake b) AWS is highly secure and c) AWS has the broadest offering of analytics tools. Holistic and very informed coverage of the various levels of the AWS three tier ML platform. Each level was very well articulated and crystal clear how each collection of solutions (Tensorflow/MXNet, platforms like EMR and the individual AI services) is used and when. Great job. You also really made this pitch your own and it did not feel like you were reading the script at all. Also liked the Zillow, FINRA & Netflix customer examples. Overall really awesome work.
+Great use of your customers examples explaining how you have worked with customers to help them adopt our ML services and platform to meet their needs. This would be an excellent candidate for an SKO training on how to flesh out ML projects with customers and drive them from idea to POC to production. These are great wins
+I like the way you used a current customer situation for your presentation and customized it. Great use of case studies that were not only ML examples but were customized for your customers industry.
+Good use of the case studies, engaging and clear. Like how you brought some of your own IOT expertise to the table as an example of how ML and IOT can be used together.
+Great use of the customers use case during the presentation. Very engaging, eye contact. Good use of customer references and
+Used the customer use well. Was very clear in your delivery of the material.
+Good use of partner examples and examples of your current customers.
+Good job weaving some of your customers business needs into the talk.
+En el contexto donde la audiencia es savy en AWS me parece que logras dar el mensaje de forma contundente. Muestras seguridad y contundencia.
+A apresentacao foi bastante clara e didatica
+Great customers examples. It is very obvious you know the material. Very easy going manner and clear way of explaining ML.
+I like that you asked Alexa a question during the pitch. I reviewed this at home and my Alexa answered the question. :) Really good job explaining the 3 layers in layman terms. My Alexa gave me a joke, sorry yours did not! Good job with customer examples and next steps.
+Nice style, very much a story teller. Clear, concise and very easy to understand. Good customer examples and relating them to Atlas Van Lines. Good customer outcomes and next steps.
+Nice job with the material and understanding all the frameworks that AWS supports. Your style was easy and engaging. You moved the call forward with the correct steps and did not make me listen to an 8 minute video (so, thank you).
+Great customer examples and covered all the material. Great job moving this forward and making recommendations.
+Great job adding info on Glue that was not in the script. Nice customer examples. Good eye contact and easy going style. I like the personal touch of talking about how video recommendations helps you and your family. Great next steps.
+Great job learning the information. Nice style very clear and concise. Great eye contact and confidence. Customer examples were excellent and you highlighted outcomes well.
+Even when you don't really know or love content, you present it credibly and dynamically. Really nice handling of the "choice" topic. Terrific use of customer references range of use cases, customer types. Excellent description of top layer.
+You turned it in on time thank you for that. Content was complete, except for missing suggestion of appropriate next step.
+Excellent improvement! You sound much more comfortable and credible. Your explanations were more clear, and more impactful. Loved the AT+T-specific proposed use case, and other new examples you used. Well done, and thank you for the secondary effort!!!!
+You are a credible and engaging speaker; terrific pacing,and voice dynamics. Even when the material is new to you, you sound comfortable and authoritative. Terrific use of customer references and use cases multiple, broad range. Content was complete, including suggested next step.
+Love the toys in the background. I gave you an extra point for that. You're a credible and engaging speaker good pacing, voice dynamics. Irrespective of content, you sound authoritative, conversational and committed. Complete content. Excellent use of customer references outcome references, range of use cases, customer types. Really love your explanation of why AWS is unique Cust Obsession, and other soft skills vs. just "killer plat." Thank you for delivering this as well as you did!
+You're a credible and engaging speaker excellent pacing, voice dynamics, etc. Love that you included stat re: number of Amazonians working on ML (100K), in addition to tenure (20 yrs). Good frame up of the three layers, and explanations of each.
+Loved the opening re: why customers are/have been interested in ML. Like that you listed the three layers, then dove into each vs. giving the detail as you named each one your way easier to follow. Good enthusiasm for examples you lit up talking about the various use cases and customer references. Complete content. Excellent use of examples broad in terms of services, use cases, customer types. Terrific that you referenced biz outcomes, and listed examples BRAVO!
+Good enthusiasm. Liked how you defined each of the terms that you used and avoided acronyms.
+You're an engaging and credible speaker just love your voice dynamics, facial expressions, etc. Even without having fully internalized content, you deliver it like you mean it and love it. Content was complete. Good that you explained a data lake, then referenced it by name, vs. just using the phrase itself. Excellent framing of AWS brags "most customers conclude we are the right choice."
+You're a credible and engaging speaker great voice dynamics, facial expressions, cadence. Your delivery helps make the content seem accessible, simple, understandable. Content was complete. Thank you for your second effort on this!!
+I liked the call out about providing choice for the customer in the bottom layer. The pitch was comprehensive and covered most of the key points addressed in the script.
+Enjoyed that you customized it to Cheesecake Factory's needs. That you defined what ML. Clean, simple. Good pace slow enough for a customer to understand. Liked that your call to action was specific to Marketing/Advertising to effect specific KPIs.
+Excellent cadence and clear speaking, understands pitch
+
+You hit the buzz words and customer examples. Seems like you have a reasonable command of what AWS is doing in this space as well as the company's ML heritage. Good next steps.
+-conversational and presenting with confidence great point of democratizing the platform and going up to layer 2 -good use of case studies with strong knowledge of specifics Excellent summary combo of open/flexible approach, easy integration with storage / anallytics/security on the market right choice in ML.
+overall great
+Great intro, loved the added resource points. Awesome gartner quote. Nice job making the script your own. Good next step.
+
+Good content, added comments that were meaningful.
+well done, good casual/natural conversation (difficult on a product you are not tremendously familiar with)
+
+Great job Cody! You were poised, spoke clearly, leveraged customer case studies and sounded like you practiced your pitch. I liked that you discussed next steps and proposed a appropriate outcome to move the relationship forward.
+you speak quite naturally given you don't have a tremendous amount of background on this particular product
+
+Good voice inflection. Good example of recommendation, relating to ML.
+
+
+you sound very natural discussing a topic that you don't have a ton of background in. This is great and a difficult skill to learn. good use of talking causally about other customers (pinterest, etc) and discussing at a casual level.
+clear that you spent time with the script reviewing, editing it and making it yours. excellent pace, intonation, clarity. solid points for "style", crispness and transitions.
+
+good use of examples, good personal references such as zillow etc,
+overall hit on all the points, good use of specific examples (however avoid using phrases such as "it's insane" when referring to customers usage such as netflix). You started sounding much more natural and comfortable around time 3:45
+good, casual conversation (difficult to do on a product you are not very familiar with).
+
+Muy completo, con repaso de ejemplos en cada una de las capas. Adicionalmente busca el siguiente paso a establecer una exploración futura y la construcción de una relación de largo plazo
+Confidente. Buenas transiciones.
+Great hitting the three most important global points of 1) Amazon's 20 year heritage in AI & deep learning 2) the AWS three layer ML/DL platform (including hitting on the fact that we are taking an open approach to ML/DL frameworks and 3) the three main benefits of the overall AWS cloud platform for ML which are a) S3 as a scalable, cost efficient, data lake b) AWS is a highly secure environment and c) the broadest portfolio of analytics available anywhere on the market Also really good job to learn and use the Zillow and Netflix case studies. This was very effective to serve as strong customer references. Also great job covering all three AI services in depth. This was actually a bonus as we didn't expect to cover each AI service super in depth the above three global points were most important. So awesome to have worked this in. This also felt like your own pitch and NOT like you were reading from a script even though you hit all points and beyond and stayed on message. Great job!!!
+Deniz spoke clearly and covered the materials fully, including the use cases.
+David's pace of speech was good and the pitch length was on target. He offered a few additional paths for next steps.
+Overall good pitch, you maintained a good pace and the material flowed well. Good use of customer examples.
+I like how you had a specific use case for a customer in South Florida. You have a good understanding of the products at the API level lots of examples. You did a good job connecting the analytics/storage experience with AI/ML.
+I like that you took the content and made your own pitch. Good conversational style and engagement.
+You recognized the importance of choosing the right application to run on the framework and infrastructure layer. Good examples for customer reference.
+You connected the Framework and Infrastructure level and the ability to chose the right application with our technology platform and its advantages. Good connection with the storage and analytcis tools at AWS with AI/ML.
+I like the emphasis on the heritage of ML/AI (specifically the Amazon product examples). You ensured the customer knew they had different software choice (i.e. TensorFlow). 1 week to 1 day example for Expedia and CSPAN clear benefit. "Not everyone has a data scientist on their staff" intro into the API Driven layer.
+I liked the multiple customer examples they covered lots of industries and use cases (probably can cut a few in the interest of time). You have a clear understanding of the different API driven services. I think the ability for Lex to also provide an Alexa schema is an important feature. Good presence on the video, clear communication.
+Your use of "Zestimates" shows your knowledge of the customer reference. You touched on the three layers of the AI stack. You did a good job of touching on the importance of the frameworks and infrastructure level and that data scientist will live here. Touched on the 3 examples of the API driven layer.
+I like how emphasized the different tools available in the infrastructure and platform level. You effortlessly used several different customer examples through the presentation. Lots of depth on our analytics stack and how it connects with AI/ML.
+Many things to like in your pitch, but in particular I appreciate that you made the effort to go largely off memory. I was engaged by how you connected the ML story to common experiences and personal anecdotes.
+Great description of the 3 layers. It was clear to me why each was important. Also liked the call out of TensorFlow prowess.
+
+Very good structure to this pitch with the right mixture of business rationale, technical tenets, and customer examples. You have good speaking cadence and intonation. Just listening and not watching, I heard poise and confidence.
+Really liked the personalization in this pitch and the natural delivery. I was engaged and felt that you were presenting in the context of my interests (as Fubo). Good poise and eye contact throughout.
+Great job making it your own, connecting to Amazon.com. Great pace.
+Love the personal examples with customer results data to back them up. Good talk track around skill gaps/market. Good cadence, on time:)
+Good content
+Good eye contact, cadence. made the content your own.
+A pleasant tone and engaging demeanor throughout. Great suggestions on next steps.
+Clearly prepared thought out conversation transitions well. Good job!
+Great job Dave! You summarized the critical key points, gave the right level of supporting detail. Delivery was engaging and you made steady eye contact.
+Awesome job putting this in the context of your customers and their businesses/use cases to make this message your own. Nailed the core message of three main points around 1) Amazon 20 year heritage in AI/ML 2) the three tier AWS ML platform and 3) the three main advantages of the general AWS cloud for ML a) S3 as a large scale storage tier b) AWS is proven to be a highly secure cloud environment and c) the broadest portfolio of analytics tools to go together with AI/ML tools for a total data platform. Also did great to hit on the message of AWS taking an open approach to support all of the ML frameworks to give customers choice. Good job relating to the customer's use cases and business and to also cit customer references along the way.
+
+
+
+
+
+
+
+
+
+Like your conversational style and basic of AI/Ml but you have missed the AWS script provided by BDs for our elevator pitch.
+Good overview of AWS ML, including 3 layers, and data store importance. Good overview of ML history at Amazon and several strong customer references using AWS ML today in different layers. Well defined next steps and close with customer.
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for leading the charge with this Mike. Well done!
+Good pace. Like the personalization " You may even have it in your own home". Clearly hear the three layers.
+Great translation of how Amazon's AI heritage will help AWS to build a robust AI platform. Nailed the three tier platform including great elaboration of framework flexibility and selection. And great exemplification of the platforms tier with EMR.
+Great job hitting the three main points of the message of 1) Amazon has a strong 20 year heritage in AI & ML 2) we have a three tier ML platform for all levels of users and 3) there are three main benefits for ML from the overall AWS cloud platform of a) S3 as a highly scalable and cost effective data lake b) AWS is a proven highly secure environment and c) we have the broadest set of analytics tools. Also did to work in a few of the customer references.
+Great work on describing the three tiers of the AWS ML platform and elaborating on the flexibility and choice we will provide on frameworks, flexibility that other providers will not provide. Also great working in the CSPAN, Expedia, Netflix and FINRA examples. Nailed the points around a superior storage tier, analytics suite and security on AWS. And loved how you added in the specific applicability of the analytics offerings to mining companies and their applications to make this your own!
+Great job making the pitch your own to illustrate applicable use cases in FinServ and tying back to McKinsey's viewpoints on the market. Really went above and beyond to make your own message that will still on point to not just read the script! Great work on this. Hit the three main points of 1) Amazon ML heritage, 2) the AWS three tier ML platform and 3) the three benefits of the overall AWS cloud that ML users get of a) scalability of S3 storage to store PBs of data efficiently b) high security in AWS and c) the broadest analytics offering.
+Very thorough, great use of the use cases, and well spoken. The story comes across clear and ties AI/ML well to our infrastructure.
+Way to go creating your own analogy to make this message your own! Well done on covering the three tiers of the ML platform to comprehensively cover each tier and to also work in some of the customer examples. Comprehensive explanation of the AI services, especially Lex to call out that it can integrate with Marketo and SFDC great level of detail. Awesome close too! Overall on message and on point!
+Great pitch! Nailed the three key messages of 1) Amazon's strong 20 year heritage in the AI-ML space, 2) the AWS three tier AI-ML stack (including our value in the frameworks tier of taking an open approach in contrast to Google for TensorFlow as their only main framework) and 3) the three main benefits of the overall AWS cloud for ML workloads of a) S3 as a scalable and cost effective storage tier for a data lake b) AWS is a highly secure environment and c) AWS has the broadest analytics portfolio on the market. Love working in the FINRA example case reference to make this relevant to your market space and to your customers. That's also one of our best references. And makes the pitch your own. Also great work including Zillow and Netflix and being able to overview details about their Spark on EMR models. And you really covered the AI services in great detail including the Liberty Mutual Lex reference.
+
+Natural. Good transitions. Liked that you tied it to past conversations. You made it very accessible.
+Great job I like the flow of your talk
+
+
+very good, emphatic message, using key references and making the pitch enjoyable , really liked the questions at the beginning about using Echo, etc and the closing; also liked the link to Big Data services
+
+Good accuracy on customer cases. Excellent at staying on message. Your explanation of the different layers of the stack were easy to follow and with the interweaving of examples, kept it feeling conversational
+Overall, good. A few runs of the discussion with customers and think you'll be great.
++ Great examples of Amazon's history on how we leverage ML in our businesses from retail to consumer device. + Good setup of the AI stack, highlighting use cases for each layer
+Good general knowledge of the topic. Nice job on using examples. Try to be crisp and factual on the examples. Good job on closing with next steps.
+Good content. Good delivery, and speaking clearly. You associated your explanations with examples, that helps clarify the use cases to customers.
++ Great examples of Amazon's deep history in leveraging ML across our businesses from retail to consumer device. + Good setup of the AI stack, highlighting use cases and users, as well as customer references for each layer + Nice tie-in of storage, analytics and security talking points to ML
+
+Comprehensive pitch covering customer use cases in each of the 3 different layers. Isabela showed she has practiced and is knowledgeable about this topic.
+Really good job to make this message your own and to also create a message for your customers that relates the AWS ML platform to how or why they would want to start solving problems with our ML platform. Nailed two of the three main points of 1) Amazon 20 year heritage in AI/ML space and 2) the three tier AWS ML platform. See comments below on the third.
+Very well done. Made the material your own, didn't just read from the slide. Confident. Concise.
+You hit the three main points of the message comprised of 1) Amazon's 20 year heritage in AI-ML 2) the three tiered AWS ML platform and 3) the three main benefits of the overall AWS Cloud for ML workloads that are a) S3 as a massively scalable and highly cost effective data lake b) AWS is a proven highly secure environment and c) we have the broadest offering of analytics tools. Also liked the customer referecnes such as Zillow and American Heart Association. Great job calling out our open support of all of the ML/DL frameworks. You provided good detail on the three layers of our ML platform.
+liked the personal touch, and references and clear explanation on when to use what, liked the connections with key people you talked before, liked the extension to Big Data services, liked the local reference topic 
+Good usage of references, and Amazon samples
+Great use of examples and puts AWS in the leaders quadrant for AI/ML quickly. Makes the 3 layers very clear and why AWS is different. Strong knowledge of material and a good close. Painted the AWS platform as a strong basis for AWS AI/ML.
+good introduction to collecting data, Data Lake (S3), etc very good usage of examples, and very nice cadence. Like you mentioned Business objectives rather than just testing technology (closing)
+
++ Great examples of Amazon's history on how we leverage ML in our businesses from retail to consumer device. + Good setup of the AI stack, highlighting use cases and users, as well as customer references for each layer + Overall a very confident and natural pitch, great job!
+Love the delivery, and making the audience relate to the story, and how comfortable you were. Customers are still learning, showing confidence and simplifying the storytelling accounts for a lot. Even for the most advanced data scientists, they'll give you all the attention if you tell them "yes you know it all but this is how we've helped others and how we can get you to practice your genius in the center of gravity for AI/ML (AWS)". Great job closing with a follow up meeting BUT not offering a full-on workshop right away :)
++ Natural delivery, taking the content from the script and making it your own (great opening) + Goodexamples of Amazon's deep history in leveraging ML across our businesses from retail to consumer device. (One thing to note, Alexa is not a ML product, but rather a device that is powered by ML technologies). + Nice tie-in of storage, analytics and security talking points to ML
+Enjoyed your passion in your voice for AWS Ml. Very simple, clean to understand. Liked how you referred to ML in their daily life like "cashier-less grocery shopping". Liked that you emphasized our desire to give everyone a choice.
+
+Very clear on the three main global points of our message of 1) Amazon's 20 year heritage in the AI-ML space 2) the AWS three tier ML model and 3) the three main benefits of the overall AWS cloud platform for ML of a) S3 as a scalable and cost effective data lake b) AWS is highly secure and c) AWS has the broadest offering of analytics tools. Well articulated each layer of the AWS three tier model (ML frameworks on GPUs, managed ML platforms such as EMR and the individual AI services) with customer examples.
+Nailed the three core components of the message of 1) Amazon's strong 20 year heritage in AI-ML 2) the AWS three tier ML paltform and 3) the three main benefits of the overall AWS cloud for ML of a) S3 as a scalable and highly cost effective data lake b) AWS is a highly secure environment and c) we have the broadest analytics tools portfolio beyond ML tools. Great detail on each of the three layers of our ML platform and especially on our open support of the various ML/DL frameworks which is a key AWS differentiator. Awesome calling out the Zillow, Netflix and Liberty Mutual customer examples.
+Nailed the three core components of the message of 1) Amazon's strong 20 year heritage in AI-ML 2) the AWS three tier ML paltform and 3) the three main benefits of the overall AWS cloud for ML of a) S3 as a scalable and highly cost effective data lake b) AWS is a highly secure environment and c) we have the broadest analytics tools portfolio beyond ML tools. Good job using the CSPAN and other customer examples.
+
+Enjoyed this. Liked that you tied in Jeff's shareholder 2017 letter.
+very well structured, and good closing
+Great job
+Speaking style is good
+
+
+
+Key points were covered within accurate length. Alexandre provided use cases, and proposed next steps to move the discussion forward.
+Overall, good! Posed/natural speech at a pace easy for customer to ingest all the info provided.
+Overall, good effort in internalizing material.
+David was clearly spoken with good pace. Audibly, the information was clear to understand and flowed according to the script. He covered the majority of the case studies and had a strong close.
+David's pitch was clearly spoken with good eye contact, and covered the key concepts.
+The articulation of the points was ok, and the examples used were good, but feels a bit unnatural as it's a read from the script
+Great conversational style and confidence Good use of case studies
+
+Fantastic delivery!
+Good use of case studies Nice break-down of the three-later stack Good call to action
+Pretty much dead on message for the two main concepts of 1) the AWS three tier ML stack and 2) the three important AWS cloud platform components offered by the overall AWS cloud that are important for ML of a) S3 as scalable storage b) high security and c) the fullest portfolio of analytics tools to supplement ML tools in the data platform. Great work on this message and hitting the key points.
+Natural, engaging delivery Great summary and call to action
+Relaxed, engaging style Good coverage of use cases
+
+Really good job learning and working in the customer cases (Zillow, Netflix, CSPAN, American Heart Association). Nailed the core message of three main points of 1) Amazon ML heritage, 2) the three tier AWS ML platform and 3) the three main benefits to ML from the overall AWS cloud platform of a) S3 for scalable storage tier b) high security and c) the most robust analytics offering. Also great job calling out AWS' differentiation around taking an open approach to ML/DL frameworks that other vendors are not doing.
+overall great job
+overall great
+Natural delivery, didn't feel read Clear structure for the pitch (layers, use cases, etc)
+Very well spoken. Showed good use of customer references with some example use cases demonstrating heritage and customer adoption. Good description of the 3 layers of the solution stack and the analytics toolbox. Strong call to action.
+Great coverage of the main points of 1) Amazon AI heritage 2) the three layer AWS ML platform and 3) the three main advantages of the overall AWS cloud for ML of a) S3 as a large storage tier b) high levels of security and c) the broadest analytics offering.
+Natural delivery
+Good, natural delivery Great coverage of use cases
+Failing you on Purpose so you can redo the mission.
+
+
+Spot on in describing the AWS three layer ML platform. Right on message with each tier and great including most of the customer examples for each tier. Nailed the points around scalability in the storage tier with S3, breadth of the AWS Analytics platform to go along with AI/ML tools and the security of AWS.
+
+Nailed the three core points of the message: 1) Amazon's 20 year AI-ML heritage, 2) our powerful three layer AWS AI-ML platform (including calling out our open approach to supporting ML frameworks and that lots of Tensorflow runs on AWS) and 3) the three benefits for ML workloads of the overall AWS cloud platform that are a) the scalability and cost efficiency of S3 for data lakes, b) AWS is a proven highly secure environment and c) we have the broadest set of analytics tools to go along with the AI-ML tools. Really good elaboration on the broad array of analytics tools on offer and the capabilities we offer there. That is a hugely important point so great work.
+awesome.
+
+Good job on hitting the three most important global points of 1) Amazon's 20 year heritage in AI and deep learning 2) our three tiered AWS ML platform and 3) the three main benefits of the overall AWS cloud platform for ML workloads of a) S3 as a highly scalable and affordable storage tier and data lake b) AWS is a highly secure environment and c) the broadest portfolio of analytics tools. Also felt like you made this your own and were NOT reading from a script, great work doing that.
+Overall you did a good job in highlighting examples as it relates to the different parts of the AI/ML pitch. See some specific areas below: 1) AI Engines: good job saying that we support multiple engines. 2) AI Stack (Application Layer): good job in highlighting these services, and giving examples of Liberty Mutual and AHA. 3) Good reference to the storage, security, and analytics pre-reqs to do appropriate AI. Although i think you need to spend a little more time here.
+overall structure was good key messages were clear
+Good clear description of use cases and stack Natural delivery, very engaging
+awesome job!
+
+lifting your score I don't agree with repeating
+Overall good pitch, used many customer examples with detail of their use case. I got the feel that AWS solutions are broadly adopted by many customers not just Amazon and that AWS has a breadth of services and capabilities for AI/ML. Good explanation of the 3 layers with good use of customer examples. Overall delivered a cohesive and clear story and value prop.
+I really like the content shared and the pace. You provided customer use cases with helpful detail to really understand how AWS and our customers use AI/ML. Great close and next steps.
+I really liked the flow and pace of the pitch. it was easy to follow and understand. You provided good linkage between each portion of the pitch and especially between the 3 layers which is key. I came out feeling like AWS is a strong player in this space and I understood your offering. You had a good strong close and next steps.
+very strong pitch, good pace and eye contact. You provided a broad range of AWS and customer examples with plenty of detail. You highlighted security as a critical part of the AWS offering which typically overlooked. Strong close with a great next steps tailored to meet the needs of a board range of audience.
+1. Strong background and case studies 2. Highlight of AWS platform service
+1. Easy to introduction of our Amazon.com strength 2. Fully deliver AWS AI/ML offering
+1. Delivered proper knowledge with lot of customer case in order to understand customer needs 2. Delivered AWS core platform service with AWS ML in terms of why AWS
+
+Neil did a great job of showcasing Amazon's deep history in AI/ML upfront. Neil covered most of the major points in the pitch and delivered a message that flowed overall with a strong close.
+
+good examples
+Nice job Pratul! Now take this knowledge and present 1-2 time within the next 2 weeks a customers of your choice.
+Simple. Clean.
+
+Good knowledge of ML/AI. Very good and easy style communication.
+Overall good exercise. I like the Lands End in context discussion and confidence when delivering the speech
+Hello Lau, We are failing on purpose as you requested to resubmit the video.
+You can tell this was unscripted and that you really understand the content and topics. Your next steps were clear and specific and you kept your message on time while still being comprehensive.
+Great work, Akira good case study examples, depth of service knowledge, good delivery, and hit on all the key structures including close and next steps.
+Nicely done Raymond! Thanks for stepping up and being the first to put it out there.
+Lee is obviously well versed with not only the script provided through this learning, but also the underlying technology and value proposition. He built credibility at the beginning, referenced good customer case studies and his delivery was clear and well versed.
+ innovative, customer obsessed, approach to include printed mock customer questions Tensorflow highlighted Overall customer obsessed pitch, while demonstrating great knowledge
+Clean. Simple. Easy to follow. Good transitions from one topic to the next. Really liked the specifics on "how" each of the case studies used ML for success. Very easy to understand.
+Confident. Clear line of thought easy to follow. Liked how you presented the three layers of the stack First naming them, then defining them.
+Speaks clearly and demonstrate usage of ML within Amazon and different ML layers
+Mentioning of Customer-Choice, good examples, excellent closing and eye-contact during presentation
+Great job Nicole! You leveraged the script very well, but yet still made it your own. You also leveraged customer case studies and furthermore, you tied those examples to yourself as a user. You had great pace, spoke confidently and closed for next steps.
+Good at articulating ML and use cases Nice use of case studies
+good introduction, pace and clarity. client references and structure. liked to use of edf made it real. timing spot on. liked the summary brought it all together
+nice job personalizing your pitch and good close
+Nice work Melo.
+You have successfully described the AI/ML services, using great Amazon and external customer references and closed your pitch recommending next steps.
+Excellent tie backs ML/AI to AWS core strengths. Very good pacing, clarity. conversation (vs reading). Good close/next steps.
+Tu estilo pudiera generar mucha confianza, es solido y con confianza. Si entendieras a fondo del tema mostrarias mucha contundencia
+great overview of ML and how it relates to customer
+Great poise, understanding, diction and presence. Clear you know solution
+Good speech
+Hit the elements of the solutions and strategy. Good work including customer references.
+ Really good tone and pacing; style was also conversational and you exuded confidence and expertise Really good overview and explanation of the 3 levels, and smooth transition between them. Good summary of the products, and customer case studies Good S3/Data Lake integration and even better with the Athena (would have been good to include Redshift too).
+Good job correlating customer examples back to customer needs and hitting all the differentiators between our tech vs. competitors.
+* Engaged in a confidant and enthusiastic manner * Proactive approach and suggestion to move forward
+Thank you for completing on time.
+
+I like the point made with the flying wheel of data. Good structure on the explanation of the 3 key layers. Half way through the video you sounded more relax and more comfortable. Good improvement on the flow and body language. American Heart Association example is well presented.
+Good intro and set up of the whole conversation. Good flow on that one Amandine! Well-articulated. Great story-telling! Interesting message outside of the text provided; Well done. Very natural and good body language. Great to mention Partner as a possible follow up and also offering re:invent as a step to progress.
+Great job making relevant to FS customer
+
+ great storytelling outstanding communication style great demonstration of AI knowledge good customer examples overall great pitch
+Good transitions. Easy to follow your line of thought.
+Nice relaxed presentation style very engaging
+good delivery
+nice job, Simone! I like how you made it specific for your customer by referencing Use Cases relevant to them
+great presentation
+Overall good. Message is delivered with most of the rights ingredients on it.
+ great overview of ML experience at Amazon love the statement: we want to share the experience from other customers and ourselves with you good highlighting freedom of choice good customer examples (netflix) nice wrap-up (history, 3-tier model, breadth & depth of platform)
+ confident and clear in the introduction Good examples on the second layer Good pitch aobut the data management part closing and next steps are there
+Best one ive reviewed so far! Were gonna put you on the speaking scircuit
+clear communication
+best prepared of whole team. limited use of script, great pace, intonation, conversational--all of which created believability; overall good job--good framing, transitions, and close.
+Great use of your own words.
+Your style is very relaxed and clear. Great use of facial expressions and varying your tone and speed of speech to keep it intriguing
+
+Good closing message for next steps.
+Overall very good. All the important ingredients are there.
+Failing you on purpose so you can redo it as requested.
+Good content but could use specific use cases, especially financial services examples.
+good work JC
+
+Strong pitch, well informed, good flow
+
+Great use of specific examples of where Oath could apply ML in their business today. Also good use of Digital Advertising and Media references.
+Strong intro with summary of internal Amazon use cases over time. Like how you presented the choice we offer and support for major frameworks. Good job with overview of the 3 layers, and like how you weaved in customer reference examples like Netflix. Overall solid job establishing our leadership.
+Very sincere and engaging kept my attention Good/smooth transitions from your different speaking points Good understanding of our offerings and ML Nice use of case studies
+Love your reference to CECL regulation! Really strong Rekognition. Good command of the material. Very conversational.
+Cover all messages. Good eye contact, glancing at the note from time to time. Good pace.
+Good, positive pacing, engaging. good customer value connection
+It's over!
+Very nice work Cris
+John, nice use of props! The pitch was fun to watch and I liked how you were engaging with video.
+Hey John, thanks for resubmitting your video pitch! Good job getting the 3 layers that differentiate AWS and I appreciate your close! Good job!
+You nailed it. Good start with Amazon internal examples. Clear and concise discussion about the 3 layers, and how we offer choice. Easy to understand and hit all the key points. Liked how you worked in customer examples early and throughout the flow of discussion.
+Good job Amy this is tough to do. You knew the content well good examples, and good steps to close.
+good pace.
+Clean. Simple. Easy to follow your line of thought.
+-Great conversational manner, presenting with confidence Good use of case studies and diving into specifics of Pinterest and Zillow use cases and tie to Domo's requirements Great enthusiasm for the solution Great points on the overall storage/data lake solution and benefits.
+Good job Mark, you really leveraged customer case studies well, provided great examples and stressed the importance of partnering with a vendor a customer can trust long term. It did not feel like you were reading from a script, you explained the 3 layers well and closed for next steps.
+High degree of confidence in the presentation which reflects maturity and being backed by experience; it shows that you did a lot of customer facing discussions previously.
+
+Good job making the content your own/changing the language. Good close/next step.
+Clearly thought out. Good conversation story line. Easy to understand.
+great job Joe
+Engaging pitch!
+Good idea to stand up with an AWS shirt and a pen. Was the pen useful?
+Confidant and clam engagement with customer
+
+Clear. Simple, Easy to understand. Good use of case studies.
+Mastered the content
+Nice job Trisha and congrats on passing your ML Video Pitch. You touched upon all of the required elements of the script and did a good job of weaving in AWS and customer examples. You had a strong presence and good eye contact through out.
+Great introduction. A very smart way to engage the audience and to list several examples. Good flow. You made it sounds natural and conversational. Well done. Conclusion is good as well with the several options to progress (webinars, workshops, SA meetings, etc.)
+
+good intro and use of UA as customer. good tone, pose, engaged. simplified key areas of pitch to your own.
+I like the way you created an order journey at the start. I could realy relate to this. You clearly knew the information not reading from a script Good competitive edge Good reference regards Netflix and C-span with reference to a customer outcome Highlighted that it is a managed service Speaking clearly about what each service does Great closing section regards partnership. I liked the way you said we would undertake this the customer.
+Good start with how Amazon is using ML today and starting off with key references to build credibility. like the flow of laying out the 3 layers/pillars
+Very good pace. Calm, deliberate. Good job of transition into the layers (I didn't like the script and you did a good job of modifying your pitch). Like how you handle jargon and acronym--defining terms and slowing down. Very much liked the casino add. Also like your self-deprecating close to next steps.
+Good overview of our offerings and leveraging case studies Comes across very sincere
+
+Good Presentation.
+I really liked how you related technical references back to your daily life and how you use amazon services and that of our customers, Alexa, Netflix.
+Good presentation, very clear and quoting most customers examples.
+Mentioning of customer-choice, use of examples, questioning in regard to interest, length is perfect
+Good customization for a specific customer and focusing on business outcomes Very engaging and comes across very sincere Builds trust with examples and delivery
+Enjoyed how you simplified for the listener how Amazon has used ML for 20 years.
+Good use of examples to illustrate use of the services. Good knowledge of the capabilities.
+
+Great job! Excellent how you made it your own and made it about your customer.
+Solid talk track, good customer examples.
+Clear and articulate, understands services well Case studies used well within context of pitch Great call to action
+* Enthusiastic approach * Usage of AWS customer ML case studies
+
+Overall good talk track and very confidently delivered. Speech pace and tone showed good inflection to keep the audience's attention.
+Clear transitions. Easy to follow talk line. Liked how you simplified ML in their daily lives with the cashierless grocery store example they might have used or seen.
+Clear and engaging especially in the two first third of prez
+
+Jon had was able to read the script and didn't hesitate throughout any of the pitch. He also made sure to call out case studies along the way.
+Good examples of how your customers are using AI/ML in their business
+Great eye contact and non verbals. These elements demonstrate confidence and mastery of the content. Brian was able to "net it out" and then also go deep. He used the customer examples in great detail and did a great job of outlining the specific outcomes that were recognized by the client.
+
+
+Good examples, nice next steps.
+Good use of customer case studies here
+Nice Zillow examples and stats. Netflix as well. Gluon nice touch. Good for insurance story and Mix example.
+Great use of customer references and use cases, and liked the humanizing of the subject matter with the recommendation engine and talking about family
+Very natural and unscripted. Excellent weaving of the Customer Examples and as well as articulating the benefits of AWS overall.
+Clear communication style.
+Great personalization of the message and also bringing it back to what it means for Cisco. You had confidence and earned trust easily with your style. Loved your closing and general structure of the conversation and next steps. Congrats on passing and a strong score!
+great job personalizing the intro and preso to Asurion good case studies
+AWS competitive advantage and customer focus. Good explanation of the top layer. Spoke about data lake and analytics. I like how you linked it to the customer you were talking with.
+nice work getting the content within the 5 min mark. You hit all the key points and in your own words.
+Don't worry about the length guidance measure. Nice job. You look natural.
+A strong story telling style with a logical flow to the presentation backed up by a competent knowledge of AWS services
+Use of examples and cases, length okay, clear voice, closing
+Good job with relating the services to your customers' business and setting the next step for each area that you believed made sense to connect with. I liked your confidence and poise, as it feels like you know (and I'm sure you do) the topic really well.
+Engaging, clear and good closure with next steps
+Good reference of SVOC as a place to apply ML/AI. Good use of references
+Rina I appreciate you jumping on this and getting it done early. Good pace and delivered with Conviction. Please take the content and practice at least one more time this week delivering it live to a customer
+good pace, time and clarity, covered most things including back ground, features and examples
+Overall very clear and precise delivery. It flowed and you clearly articulated the various layers of the stack. You did nto ramble or say speak redundantly thus your time keeping was excellent.
+Very simple, clear. Easy to understand. And I like how you pointed out that ML is in places they may not even be aware.
+Overall good delivery. Confidence & good eyes contact.
+The last 2-3 minutes summarized the pitch well and related to a clear next action that was relevant to the pitch.
+Good use of reference customers and stories, you know the subject matter.
+Good passion. Good flow and transitions.
+Very good structure, customer references, examples and references to the past meeting. Good length and good next steps keeping the open question at the end.
+Good content, liked how you made it your own.
+Very nice engaging presentation style Amanda and I especially liked the inclusion of relevant broadcast references, making it pertinent to your customer base.
+Great use of references and flow.
+Don't worry about the length guidance measure. Nice job. You look natural.
+Good flow. Easy to understand.
+Engaging and clear presentation. Overall a good presentation
+Good transitions. Liked that you emphasized what they need to be successful
+You captured all the content and delivered it within the 5 minute timeframe
+Very good examples and endearing to a first time discussion.
+Failing you on purpose so you can redo it.
+Great pace, which is easy to listen to and great use of customer case studies.
+Patrick communicated the value of the ML story with customer examples. He spoke clearly, demonstrated confidence and drove to the appropriate outcome.
+Confident delivery. conversational approach. Good suggested next steps
+Good job!
+good customer examples and good example of the different options. Good explanation of data lake, security options and analytics options.
+That was great really creativ but relevant use cases for Bank of America. Good cadence. You hit all the salient points including our data strategy
+Nice sound. Good job!
+Confident and clear with strong engagement. Good example of leveraging cases studies
+ good intro very good approach to explain the 3 layer model very clear explanation of the data lake
+
+Logical and detailed explanation.
+Clear value propositions AWS history of ML, 3 stacks, AI services. Friendly tone and manner with excellent in eye contact. Good transition to your introduction of next step.
+Good follow up on next steps
+Enjoyed your transitions. Liked how you related the customer's need to divide out data and the stack that it related to.
+Great customer examples
+Confidence, engaging and eye contact. Great working knowledge of AWS ML. Great job!
+excellent approach
+Good opener and setting of the scene. The pace was strong as it kept me engaged at a pace that many customers will be able to understand and follow.
+Good command of terminology and of tiers, length was good.
+Good style and knowledge
+Good structured speech
+Great pitch! Thank you for completing on time.
+Well done Karine! Not an easy pitch as it is green field. Good customer reference example to catch your customer's attention and propose next steps.
+Very detailed pitch, covering a lot of detail and customer examples
+Good presentation, good job!
+Nice work Denis!
+Good eye contact and good customer examples explaining the benefit for the end customers. Good length. You are engaging and made it sound more conversational. Good next steps with dates
+Very conversational tone nice. Great explain explaining what the CSPAN case study was versus just mentioning the name.
+good eye contact and confidence. messaging was good and length was appropriate to flow.
+Cases locais, visao completa da plataforma de IA
+Like the way you phrased "they will find a great home in AWS". Felt that you had genuine passion for ML. + earns trust Love the way you brought Motorola into this. Nice pacing. Did not use acronyms without defining them.
+
+
+great confidence, eye contact, and enthusiasm. good use of customer stories and closing.
+I liked the way you framed the introduction. Good job on the Amazon heritage of ML. Good knowledge of use cases.
+Confident, clear, good at explaining ML value Good use cases discussed
+Kevin was very good at making AI / ML relevant to his particular customer by talking about what it could mean to them specifically and the value he could provide. The customer use cases were solid. His tone was conversational so it was obvious he understands the material and the concepts. His presentation was only 29 seconds over the 5 minute goal. The flow of the presentation was good and he displayed an executive demeanor.
+engaging and speaks clearly
+Its clear you understand the subject; you hit the key elements from the three layers to the additional of analyitcs.
+lifting your score I don't agree with repeating
+Strong knowledge of ML and customer use cases.
+Liked the change in tone and pace, kept me engaged and you had a lot of content that was specific to you and not from the script. Great job on keeping the pitch informative and in a good time.
+Comes across very conversational and keeps my attention
+Confident. Clear story line easy to follow. Loved that you used this as a roleplay for kicking off a workshop. Great way to set the tone.
+Like how you simplified ML recommendations "you like this, you might like that".
+Good conversational style. Good way of walking uno the layers. Good positioning to developers.
+Really enjoyed listening to this. Mostly because how you told the story from what was to what could be and is from the start (i.e. what the auto-industry was and how ML has changed the industry now).
+Good flow. Simple to follow.
+Good flow and control over the content. Well done!
+Liked that you started it off with defining ML. Made it a simple place to start from. Good use of case studies.
+Good description of Amazon history ML/AI. Like how you connect to your own customer experience. You spoke about need to solve a problem. Good description of S3. competitive advantage. Very clear on the video.
+
+Very informative, articulate and thorough. I liked the transition from the Pintrest example to the opportunity for banking platforms and the art of the possible for new customer interactions.
+Clear and nice use of case studies
+Clear transition. Easy to understand. Just enough to make me interested as a customer.
+Try to talk about the problem or the opportunity a bit upfront which sets you up for the AWS solution.
+
+Good depth!
+Good verbal when explaining Amazon background with ML, products and suggested follow-ups.
+
+Great energy. Good flow and good pace & tone allowing the audience to connect with your message. Very clear and well-articulated. Good job on the body language and the communication on customer case studies. Powerfull indeed to have the slides to support your message. I like the risk taken having the slides in the back. Wow Nabil!
+Use cases + next steps
+well done Paul. shows your knowledge, well prepared, good pace and obvious you know this space now v professional and lots of customer linkages,
+
+
+Simple. Clear. Good transitions.
+Thanks Martin for taking the time to deliver this pitch. Well done! Now let's go sell!
+
+Very nice pace Martin and you have a great engaging presenting style. I loved your own personal customer use cases and came across as very knowledgeable on the subject of ML
+Great pitch Tim! Good job on hitting the three most important global points of 1) Amazon's 20 year heritage in AI and deep learning 2) our three tiered AWS ML platform and 3) the three main benefits of the overall AWS cloud platform for ML workloads.
+
+
+Mike I felt that you had many great examples of our internal use of ML/AI and several customer examples as well. You speak confidently and clearly and have an energy that wants me to learn more. You ability to break the message into the three compelling parts made me feel as a customer that no matter where I am in the journey, you can assist me
+Nice work, great opening and close and use of customer examples. Thank you for keeping the pitch within 5 minutes.
+Good flow, good transitions.
+Calm, confident demeanor. + ML@AMZN +Follows pitch flow closely
+
+Clearly has a breadth of knowledge and understanding of the AWS services portfolio, connected the dots on our ML offerings, and multiple customer references shared (could have expanded on how applied)
+Good enthusiasm, engaging. Clarity is strong. Excellent close on next steps.
+• good understanding of ML and use cases • explains various workloads/examples it ML applies to
+well paced and outlined.
+Good job on this difficult exercise(in non native language)
+great ML knowledge good case studies
+Great job Sean! I really liked the way you wove examples into the story and the explanation of why AWS for ML.
+Clear and articulate, understands services well Case studies used well within context of pitch Great call to action
+
+You've had by far the best look across all of our team. I challenge you to wear a mustache next time! :-) Besides that, I liked that you have understood all talking points in a great level of detail and are able to use them during your pitch (without reading from paper). Overall great job, Thilo well done!
+Awesome job, Alper! Good eye contact, very good custom speech related to specific customer needs, very good body language, good next steps all these earn trust with the customer.
+Good confidence. Easy to follow your line of thought. Nice job!
+ tangible AMZN & customer references good time keeping covered three layers of ML/AI
+Great pitch and explanation of the platform and solution , Good customer use cases and call to action as next step. well described and good eye contact.
+I liked your pitch intro where you outlined the relevance for the customer at a high level and also your summary at the end. During this summary you made the connect to German Manufacturing companies, which is a proof that you have the ability to translate newly gained, theoretic knowledge into a real business / use case for your customers. I also liked that Alexa was talking so much :-)
+Excellent job!
+You elaborated very well the various case studies that AWS has in that space.
+Good presentation.
+Good knowledge of ML
+Liked how you simplified the complexity of what ML is with a clean definition of ML to start the conversation. Very easy to understand the features and benefits of AWS ML.
+
+Nice work. Good use of customer examples.
+Good flow with great customer use cases.
+confident and clearly speaking. Good use of case studies. Content was good.
+Best all around pitch I've seen Shaun. You provided good detail about our history in ML/AI and the right levels of depth across the ML stack and specifics on how customers use our solutions and each level. Eye contact was steady and energy level kept me engaged.
+
+Good job! Very natural and conversational. Good examples to support the layers. I liked the Deere example, but how does that align to the business challenge of the customer you're speaking to during the pitch?
+
+Clear and articulate, understands services well Case studies used well within context of pitch Time is spot on
+Horta, i liked it. You demonstrated clear examples of AWS ML solutions and Client use cases. You outlined well the three layers of applicability.
+Nice tie-into customer business (call centers), and good close.
+Failing you on purpose as requested through support handle so that you can redo it.
+Good intro across the Amazon ML usage, good presentation of different engines we're offering, and good to emphasize the TensorFlow among others.
+Good job, Arek! Good knowledge and clear next steps!
+great use of examples and strong and specific next steps.
+Loved the tight correlation with Wells. Great tangible business benefits. Powerful use case. Good speaking cadence
+Nice work Edilene!
+Good engagement , eye contact and confidence . Relevant content and case study used.
+Hit the key points
+ very good examples on the middle leayer good pitch about data lake and analytics
+mensagem clara, bons exemplos
+Simple. Easy to understand.
+I appreciate it was submitted on time, and that Jack reviewed the script.
+Good work on the second attempt. You kept it concise and you hit on the primary differentiators.
+Great use of references. CSPAN and others. I liked the transition from S3 to data lake.
+
+Good coverage of 1) the AWS heritage in ML, 2) explaining the 3 layer stack 3) completeness of the platform with powerfull storage capability with S3, strong analytics capabilities and strong security. Also good context on how the customer can use ML in HCLS.
+Nice pace and style, very poised. I liked the part about Lex, Polly and Rekognition. Good solid examples of how customers utilize ML.
+Good composure and good work on the speech in english. Customer case stories are well explained. Live demonstration of Amazon Polly at the end is WOW! Great idea for an impressive conclusion.
+Good introduction. Good flow and good composure. I like the positioning of Netflix example within the presentation on the different services. Wel done.
+storytelling that is clear and easy to understand
+Well done Romain. Good technical knowledge and examples to illustrate the value of the proposition of AWS in that green field.
+
+Nice Work Andre!
+hit the key points good customer examples
+Smooth delivery. Good knowledge of content. Like customer examples.
+Good AMZN examples and covered all the details on our offering, incl engines, DB etc. I like that you connected back to the previous conversation and made it fluent. Great follow up options!
+Great flow, Wow! Great customer examples
+
+Good flow. Generally speaking we should talk more about the problems we solve of the new opportunities we create.
+strong understanding of the ML offering . Good eye contact and confidence . Good closing by proposing next steps. Overall good pitch.
+
+Strong passion and conviction around our solution Very good understanding of our solution Confident
+All things considered you did not miss a spot. Also great coverage of Amazon's 3 layer ML pitch with all supporting systems
+Clear and articulate, understands services well Case studies used well within context of pitch
+
+Neto, i know you have the knowledge and skills of AI/ML solutions, you have been positioning in Clients in your territory. In the video you gave some good examples of applicability.
+great customer examples and detail on how services can help
+
+Great stuff Vivaan! The pace is really nice and great dive in to the three different layers and the connections to customers at each level.
+Good job! I really liked the Bezos annual shareholder reference. For 1 time through and doing it quickly, it was well done. You come across as credible and knowing the topic.
+solid conversational flow and strong use of examples
+
+Good Dive deep Good reference to Swedish company Mapillary Setting out next steps
+Love the detail on the customer case studies. Good understanding of Data Lake Architecture.
+Could tell you prepared. You knew managed services well. Good confidence.
+Good, understandable communication from Amazon.com, AWS ML service and next Action Items.
+I loved how you integrated PWC needs and their situation into your pitch. You did a good job hitting all three layers of the stack with customer examples. You were confident in your presentation and didn't look scripted. Congrats you passed your challenge!
+One of best pitches I've seen Monica. Great context on our history, you provided adequate detail about each layer of the ML stack and supporting services. Eye contact, confidence and flow were engaging.
+ great overview of ML experience at Amazon a lot of good customer examples well structured to follow-up through the three-tier AI/ML ML good energy level
+Tony, great job on your presentation. You understand AI and covered all of the required points of the presentation. Thanks for keeping it on track time-wise and for bringing in customer examples into two of the three layers of the stack. Congrats on passing!
+Good understanding of ML/AI Easy to understand and good transitions as you hit the different topics
+
+has good knowledge for AWS ML and Speaks cleary with appropriate speed.
+Exciting introduction. You made it sounds very natural and conversational. Well done lois! I like the way you have adapted the messaging. Woaw. Great flow and impressive eye contact. Case studies on the startup restaurant is bringing value (maybe you could share a bit more data).
+Great level of knowledge and use of examples!!
+Love the creativity! Not only was I laughing out loud, but the content was spot on, intelligent, and appropriate. This was fantastic, it was the first one that I have seen and I already know it will be the best! Nice job
+1. You spoke clearly and put good emphasis on the major points 2. Good summary of the ML offering and AWS market position 3. I liked how you blured the lines between DL/ML in Amazon.com and AWS
+Adept at the different layers of our M/L offering, good of AWS M/L and data stack.
+Great pitch , good eye contact , well understood and described. good use case of customer reference, good next step and call to action
+Good customer examples
+Good, understandable communication from Amazon.com, AWS ML service and next Action Items.
+Overall good, a lot of examples from existing customers. Most of the required items are there.
+Muy buenas transiciones Confidente. Me gustó tu referencia a Pinterest como un ejemplo de Aprendizaje automático.
+Nice Job Dave, thanks for your efforts. It's obvious you know the messaging well!
+Jarod, you did a fantastic job of taking the material and making it your own. Thanks for taking the time and energy to craft a strong message, differentiated value statement. I really appreciated how you stitched customer examples into the story as well.
+AWESOME! Best One You're cadence and comfort with the subject matter came through. (you've clearly practiced and talk to customers :-) ) Great customer examples. You nailed the data part of the messaging (yes its true 11 9s !)
+Great learning, and good composure throughout the call. Also, very good demonstration of the case studies we have for Machine Learning.
+Transmites conocimienton y seguridad, pudiera creer que entiendes el stack y lo diferentes servicios. Me parecio muy adecuada la relacion con casos de referencia en el contexto del dialogo.
+Well prepared, well organized, at the end I wanted to kick-off a n ML project. Did not skip any messaging. Precise and on time
+David had a solid talk track, and spoke clearly with few moments of hesitation. The flow of the conversation went well and he his on the main components of ML/AI.
+Strong recording that didn't feel like it had been practiced, but rather something that David truly knows and understands. I liked the summary follow-up request with action items. David spoke with passion, enthusiasm, and really tried to connect using case studies.
+Case studies and 3-layer approach
+Good work Lillian! Like the way you talked about the three layers and the way connected customers to different services (e.g., how Netflox and Zillow use the services).
+Good eyes contact, engagement and confidence. Good proposal of a follow up meeting. You did not read material but translate it into your own
+Great use of case studies.
+Anthony had a very good set up and gained credibility right away. His communication style is crisp and straight forward. His customer examples were appropriate and were delivered with a high degree of confidence. He obviously knows the material.
+Very Strong customer examples. Very good cadence. Very good next steps.
+Nice tie-in with Sysco and their environment. Also liked the Rekognition CSPAN example with Jason Vorhees!
+Mastered the content
+Me da gusto ver tu entusiasmo. Tienes mucho estimo y generas confianza. Complementando con solido entendimiento de los conceptos, sera positivo para tu carrera profesional
+Clean. Good transitions.
+ great overview of ML experience at Amazon and other customers (Zillow well structured to follow you through the three-tier AI/ML model like the excursion to data lake and data platform services
+Great job Anna! You provided the best video of capturing customer examples with specifics how how the technology was applied. Your presence was strong and I immediately trusted you and wanted to listen to everything you had to say. You stuck to the guidelines of the script, which keeps it simple and relevant to the customer.
+Good job. You looked and sounded comfortable with the message. Good inclusion of reference examples.
+Good conversational tone. Solid tech depth.
+Great creativity and props, also good use of references to demonstrate AI/ML customer outcomes. Confident and articulate in the delivery.
+Wilson, I liked it. You showed many client examples of each AI/ML solution. You demonstrated knowledge of the portfolio.
+Good use of references, changing the script.
+Good conversational tone. + earns trust. LOVE the way you made this personal to AmFam. +++
+Very confident. Simple easy to follow. Good use of case studies at each level of the stack. Good job!
+Good use of props/white board, familiarity with the ML ecosystem, good flow between segments, effective relational language/use of similes and analogies. Great work overall.
+good job Gina!
+excellent demeanor--pace, tone, authoritative. Good edits to streamline and you became more believable when you went off script. Very credible and real presenter. Significant reading but your clarifications/adds to the content made it clear that you knew the content. Most folks take out the tier 2 part about the industry not really being there, but liked that you kept it in and it added to your credibility. Similarly, you kept in the 2-part close about deep dives and workshops--again something that gave confidence that AWS has done this before and that you can get them to success multiple ways.
+I could not listen no sound 
+Nice Work Gimenez!!!
+
+Great that you made it your own. Loved how you tied it into at the end. Made it personal. Very clear. Great job.
+Great energy and enthusiasm, comes across as genuine.
+Good cases and communication
+Good conversational approach with strong start talking about our successful history in the space. Good focus on freedom of choice and showing the challenges we solve.
+Good use of examples, Lovely use of Polly.
+Good job! I really liked the potential Toyota use cases. You came across very natural and confident. I also liked where you discussed a "typical model". It sounded very real but I wanted to hear a few examples of options they would take with that model Do they use frameworks, or the platform? A key part of the message is our support of many of the open source frameworks out there.
+Good work Piyabut! Especially like the way you talk about the 3 layers, S3 and Athena.
+Hi Piyabut, good work in going through this and coming out as a clear and detailed presenter!
+
+Steve did a nice job on this. His set-up was good and his knowledge of the subject matter is clearly evident. He is genuine and credible. His delivery is confident and he maintains eye contact. There were few time that he seemed like he was reading a script. At 5:32 the length was good.
+great presentation as always, good tie back to multiple services
+good explanation of amazon's history of AI/ML. Clear and confident presentation. Good description of bottom layer. Gave customer examples. Spoke about competitive advantage
+Strong, confident. Good transitions.
+Nice work Marcel
+Good grasp and understanding of ML Nice job of leveraging case studies Positive and upbeat tone
+Nice job on covering all the important data points around ML. Liked how you added analytics into the conversation.
+El estilo me parece positivo, muestras seguridad y confianza Al parecer el tiempo se vino encima pero tomasate el tiempo para concluir bien.
+Content was very good, great use of case studies and confident presentation.
+Good understanding of ML Clear and articulate Nice use of case studies
+Nice one Niall! Very strong introduction which felt very engaging. You have a very nice paced delivery and presentation style
+Nice job! Your sound is incredible!
+Clear. Easy to follow. Good transitions.
+Good job keeping length around 5mins!
+Clear presentation. Good job personalizing some examples and nice closure.
+ great customer focus good next steps pitch overall a good, customer obsessed pitch
+Good command of technology, Good customer reference use.
+Genius start to the pitch. Confident, well delivered and seemed quite a natural pitch. You related the ML market element of your pitch back to your own customer example really well (Sage).
+Nice job, Andrew, great preso
+Like how you personalized it to a senior customer. Your presentation flowed well and held together to a logical conclusion. Good handle on the material. Love the Yankees hat!
+good , confident and comprehensive pitch
+Great presentation well paced
+
+Good content, made it your own.
+Roger, well done! I like the way you created your own message but also dug into each of the three layers that make for the whole AWS AI/ML platform.
+You have successfully described the AI/ML services, speaks clearly and closed your pitch recommending next steps.
+It's good to clearly mention about our openness, also introduce our 3 major ML stacks, and influence the audience with multiple customer references.
+Great intro with Polly! Good job on hitting the three most important global points of 1) Amazon's 20 year heritage in AI and deep learning 2) our three tiered AWS ML platform and 3) the three main benefits of the overall AWS cloud platform for ML workloads!
+Great job, Nazar! You show customer examples, you relate to specific services that your customer can use and you also relate to specific customer interactions you had in the past,
+Overall good. I liked the relaxed tone and casual talk.
+Good stuff Mavis! Really like the way you connect the customer centric mission with ML and continue to talk about the three layers and the customers.
+Calm and collected delivery. Good focus on customer choice.
+Jimmy knows the material and sounds professional. He customized the content to cover all the points listed in the presentations, but so that it sounds like it comes from personal experience.
+Good close with next steps.
+John, good job articulating our history in the space and touching on all the elements of the message in a short time.
+
+Fabienne, thank you for submitting your video in a timely manner. ML and DL are both strategic for our customers and the pitch script clearly states that AWS is committed to help organizations lever the AI & ML trend.
+steady pace, good example (but seemed to be reading vs being yourself)
+Solid knowledge of the content, and was able to convey the message in a way that went from big picture down to some of the details. Outlined advantages, and worked toward possibilities of what the customer can do with their business.
+Clean easy to follow. Good transitions. Like the use of case studies and ML examples in every day world.
+Enjoyed listening to the flow of this conversation. Very simple. Easy to follow.
+Overall, pitch conveys the message.
+Good presentation style, confident. Good content and closing
+Mastered the content
+great confidence, eye contact, time, close and communication style.
+Pace and varied voice inflection helps keep the attention of the audience. Clearly didn't feel rushed, which made it easy to follow. Good use of example use cases.
+Chris had a very strong start in terms of setting the conversation and gaining credibility by clearly communicating AMZN depth of experience in a conversational way. His customer examples were appropriate and he stated the value in a way that demonstrated he understands and is well versed in the stories. His closing was solid. He obviously knows the material.
+Covered major points and the best close on the team by actually asking for a specific date/time. Nice.
+Nice job, particularly early on (1st half).
+You provided good customer examples with benefit to the customer. spoke about competitive advantage. You spoke at a good pace not too fast
+Good delivery and conversational style, despite script reading. Good use of customer references. Good overview of workshop.
+Nice job Pankaj! You made the script your own by reordering the flow and talking about the shortfall of AI historically. You accurately described the major elements of the framework and provided good supporting detail. Energy, eye contact and flow were engaging
+You definitely attempted to make the script your own, but not only experimenting with the flow of it, but also brining your own examples/experiences into the mix. With a little practice, it could be great.
+Good verbal when explaining Amazon background with ML, products and suggested follow-ups.
+Really good presentation with great Siemens User examples
+Great use of Titanic to establish benefit of AI, then went deep on why AWS for AI. Zillow, Pintrest, CNN good case studies.
+good customer examples and talk track
+Smooth delivery with confidence. The presentation was very natural and conversational. Bonus for Caffe2 reference! Good use of references as they relate to each layer.
+Mastered the content adequately.
+
+Good delivery and use of customer examples. Good poise. Good segway into data store offering, but may have saved some time there.
+Good eye contact and good explination of customer benefit of ML that Amazon provides. I like how you start with defining a business outcome and break it into 3 steps
+Me parecio un mensaje ordenado y preparado,, generar confianza al hacer sentir que sabes de lo que hablas. Me quedo claro el mensaje.
+Good content, presentation and next steps like the opening and closing
+Good job, nice opening. Keep practicing your transitions and master the customer reference stories. More practice will result in a fluid discussion.
+
+Nice was of defusing background noise. Nice conversational approach.
+Clarity was strong, speech was well-done.
+Good clear summary, easy to understand. Well done. Like the way you discussed each layer. Strong explanations of services within each layer. Good emphasis on ease of use and concept of democratizing ML. Like how you tied to data lake at Amgen already on S3 and customized to their business outcomes.
+Good customer case studies with benefits clearly articulated.
+Mastered the content
+
+Super smooth delivery. Great understanding of the stack layers. Loved how you described NetFlix use case.
+Overall good. I will the
+Good transitions. Good use of case studies.
+Nice preso, Tom!
+Clear and precise description of the AWS AI/ML portfolio based on the three layers model. Good leverage of customer case studies
+Great Time management
+Clear value propositions of our intrinsic use of ML over long years. Excellent introduction of AWS ML stacks and eye contact throughout your pitch. Key part of sales pitch is to make the audience continue to be interested in joining the next step and you made. Good Job!
+Great presentation, good job Matt !
+Very smooth delivery and use of facial expressions and varying tone of speech to keep the audience engaged. Good examples.
+Good pitch Glenn. You did a nice job of explaining the major points. You provided adequate details on our history, the three levels of the ML framework and customer use (ex. Netflix recommendation engine). Confident tone, energy and flow.
+Good approach and closing to move forward
+Good job Corey! This is hard to do on video and you were confident, articulate and used good examples that were relevant to your customer.
+Felt like you were comfortable with the subject area. Love he details
+
+
+Good customer examples.
+Good job Tim !
+Good setup. Earns credibility right away by describing AMZN history with ML in a factual, non boastful way. He has a good grasp on the material and underlying technology. The length of his pitch was close to perfect.
+Good close with next steps.
+Good job relating to customer case studies and overall command of technology.
+Very well prepared. Clearly thought out transitions from one topic to another. Good job.
+Nice conversational tone. Good tone and pacing. Nailed the time frame! I like the call to action.
+Eres muy elocuente, y lo mismo te aventaja al momento de estructurar una historia. Muy buena presentacion
+ Great engagement style; you quickly established your expertise and competency Really great use of customer examples across all of our solutions and use cases Good next steps, just might be a little more specific Good entry into S3, and the appropriate level of info Perfect length!
+Simple. To the point. Good use of case studies.
+Nice job setting the agenda. Also weaving in additional services like Athena/ Red Shift etc. Great job explaining the 3 platforms.
+Nicely done!
+Great job of making it your own story
+Really good delivery. Very natural.
+Thank you for completing on time.
+Nice work Tyler, you did a good job of covering the solution, but also making it easy to understand. Well done!
+Great job Kenneth!
+considered + relevant positioning. strong understanding of offering including how it relates to customer/mining.
+Covered good references and customer's benefits.
+Good knowledge of AWS ML and confidence
+
+
+ Confident. Very good explanation of the "freedom to choose" Proposed outcome good!
+I like that you made this personal to United Airlines. NICE! I felt that you studied well and became familiar with the content. Delivery was conversational, which was well done. Love the industry references.
+great confidence and eye contact. spoke clearly with little breaks.
+Really strong presentation style. Liked how you wove in the customer examples and made them relevant to your customer. Strong understanding of ML. Really great close.
+Good flow and good duration. Good mixed of example of services where you sound confident and knowledgeable. Also great to hear you sharing it was easy for you as well to leverage ML services on AWS.
+
+Thank you for completing on time.
+Mastered the content
+1. I like how you referred to a specific customer! 2. Great work on starting and ending with explaining how doing ML is less complex then perceived 3. Good next steps. Always important to put a time frame on next steps
+Great job weaving your customer into the story
+
+well done
+nice job, Jasjit!
+Good time management and good that you didnt read from a script and managed to memorize the presentation.
+Great eye contact and excellent time management.
+Great use of specific Nike examples and building of the AWS and Nike partnership.
+Good job on presenting on AI, You hit all of the requirements content wise and have a confident presence about you! Congrats on passing!
+* Strong knowledge demonstration of ML & AI on AWS * Clear message and confidant engagement
+A personable narrative, demonstrating a broad understanding of ML, with relevant customer use cases, delivered in a confident manner
+1) good job on identifying the three layers 2) great customer examples 3) awesome work on suggesting next steps
+Noel was very personable and provided several examples of customer case studies throughout his pitch. Props on taking time to engage the listener as if it was a conversation and checking in to make sure he's on track with what they want to hear.
+Introduction, mentioning "Customer-Choice" and how to predict the future, examples of customers such as BMW, use of Flipchart, clear pronunciation, closing with partners
+1) good job making the pitch your own, you didn't read the script, thank you 2) I like your customer examples, good job adding color
+Nice job Hardeep and congratulations for passing your ML Video challenge. You come across with confidence and as a trusted advisor with your poise and not seeming scripted. You did hit the basics of the script requirement and were on time.
+Great customization and real life examples. Length was jsut about right. I am assuming that Simit Sarayi will be added to your quota : )
+
+ Good intro that clears Amazon Experience in ML good explanation about the freedom of choice really good intro of the middle layer Data Store pitch very clear great wrap up and next steps
+Engaging and natural presentation. Good eye contact, only glance at the note from time to time. Cover key messages
+Did not miss a point well organized. Sincere approach always brings sincere listeners. Outcome oriented approach was good.
+Good content and delivery
+Nadia, great job witproject h recording and delivering this story! You did a fantastic job of communicating both the 3-layer AWS approach ML/AI as well as weaving use cases into the pitch. I also appreciate the close with next steps. Very nicely done!!!
+I like how you made the script your own,especially in the very beginning with how you helped them relate to ML in an easy to understand way; and great use of customer case studies to help the customer relate
+You've managed the pitch in the time given (max 5 mins.).
+You have passed the Machine Learning Pitch practice. Thank you for your efforts, Harald. I can clearly see improvements regarding your ability to deliver the ML pitch fluently. I liked that you've integrated customer case studies and talked about real-life ML use cases. You had a strong closing and overall the length of your pitch was appropriate.
+You were one of only two 5s on both of my teams bravo!!! You're a natural, engaging, and credible speaker terrific pacing, voice dynamics, etc. Love the start point of "one thing I want to leave you with" democratizing technology. Terrific delivery of AMZN examples "have you ever wondered how ?" You convey authentic enthusiasm. Excellent description of each layer and its target user. Love reference to reducing heavy lifting/tie to our all-up positioning. Good customer references range of use cases, customer types and relevance to your listener. Nice work avoiding distraction of flight announcements! Extra half point for that.
+Great use of customer use cases with amazon.com and Liberty Mutual, and like the way you closed the meeting to further engage with the customer and outline next steps
+Good stuff Sandesh! I like the pace you take the viewer through and the way you talk about the three layers. Nice touch with Skynet! Also good to ask for the CTO engagement!
+Easy talk makes customer to feel comfortable
+Great job on this. Love the use of the word Iconic in relation to AWS ML :-)) You went thru each part of stack really well.great next steps.
+You gave good customer examples with the business outcomes they achieved. Good eye contact and pace. Good explanation of different framework options. I liked your summary at the end
+* Nice job talking about the 3 frameworks for machine learning, and finally with the infrastructure services. * Most effective when you are able to talk specific examples such as the CSPAN, Duolingo, and Liberty Mutual examples.
+[coaching provided separately outside tool]
+Well done. Very trustworthy demeanor--good tone, pace, intonation. Liked the modifications especially the piece on customer obsession right before the close. Good efficient edits to cut time but still land all the key points.
+Good transitions. Confident.
+Very smooth good flow. I could tell You really studied and practiced :)Great overview of each of the elements of our stack. Good use cases
+You are an accomplished presenter you have terrific voice dynamics, good fluidity, and a credible, enthusiastic presence. Your content was complete, well ordered, had the right level of detail, third party attributions, and prescriptive next step. Extra points for using my name.
+Dave is knowledgeable about the subject matter and directs that information directly towards his customer, ESI. His presentation was only slightly long. He comes across as credible and set the stage well at the beginning of the presentation.
+Very clearly worded simple easy to follow.
+Outstanding delivery. Great job
+great confidence and customer stories
+As requested we have reset your mission on purpose so you can redo it.
+Liked the narrative, particularly the customer references; Expedia resonates well. Playing on customer choice and our customer obsession came through strongly. Talking about experience with your retail customers lands well and liked the offer of 'sync up with a customer further down the journey and understand why made decisions they did' good positioning
+Nice Job Karl! Thank you for your efforts and for delivering your message very well!
+Thank you for completing on time.
+Very good length. Less than 5 mins. Just the right level of info. Very good examples and good you discussed support for third party solutions like Tensorflow and Pytorch, etc.
+Good job on hitting the three most important global points of 1) Amazon's 20 year heritage in AI and deep learning 2) our three tiered AWS ML platform and 3) the three main benefits of the overall AWS cloud platform (S3, EMR, etc.) for ML workloads. You mentioned great References!!
+Great way of making the pitch your own, I enjoyed your energy and your intro with how you introduced Amazon.com! You highlighted all of the key concepts and used examples to help the customer relate to what you're talking about.
+We are intentionally failing you for this mission so that you can redo it. Please resubmit your mission for review.
+Great eye contact, you didnt read from a script which required a lot of learning, thanks a lot for this. You also leveraged Case studies well.
+Well explained, good eye contact and use of customer reference. Good next step and call to action
+Wow super natural. Nice job. Personable and solid.
+ freedom of choice mentions a lot of frameworks (useful in order to support the previous point) good personalization example (could have referred to prime air when talking about drones) closing and next steps
+Really like the example that you played for the client on your phone to show them how ML is in our daily life. Very good.
+Clean. Simple. Confident. Nice job!
+Good script that you have. Also great time management.
+Much much better than the one before. Your first 1.5 minutes were first class, this is where I believe you rehearsed it the most. Also it was great that you mentioned that throughout the past 20 years the favored libraries have changed. Although its not 20 years exactly as the earlier of these was Tensor which started in 2015 :)
+Very good. You made it your speech
+1) THANK YOU for staying on time, good job making it concise 2) Good coverage of the three layers 3) Nice job on driving a next step, the more specific the better
+use customer case studies to demonstrate value to customers Explains importance of data on the platform Good explanation of the 3 tiers
+Nice Job Amit! I liked how you personalized your story from the script and addressed how this impacted the specific customer industry. You covered all of the key points required. Congrats on passing, but slow down. Less is more!
+Nice command of the material. Showed a really solid understanding of our offering and related it to the challenges of the customer. Liked how you touched on S# and analytics.
+[coaching provided outside tool]
+
+quick uptake for someone who has spent only couple of months in the company . Confident, comprehensive pitch that had adequate depth . Could build the story well.
+* Demonstrated a true understanding of ML frameworks available in the market * Demonstrated strong knowledge of the AWS ML offering and use case
+Great use of customer case with CSpan and Dualingo, and Liberty Mutual; and adding some more detail with regards to Polly and Lex
+You hit all of the areas, but you just need to be more organized in your talk track. You clearly understand the material, you just have to work on the delivery. You really tried to use this as an actual customer pitch.
+Clear. Simple. Good transitions.
+Spot Market (90% price reduction) Customer example: Pinterest, Expedia; Netflix, Duolingo Good preparation You didn’t miss anything
+Fascinated with your influential messaging to the audience. Clear value propositions of AWS ML stack and openness we have. Informative introduction of customer cases and AWS AI services are also plus. Lastly, you invite next steps for the audience which is the most important thing from sales perspective. Good Job!
+La forma en la cual enmarcaste el contexto de tu mensaje me parecio muy bien. Muy claro para enganchar al cliente Buena fluides al momento de comunicar, estructura y orden
+Like the affiliation with a specific customer, good work going off-script.
+Great overall Dane. I believe practicing further and speaking directly with customers will improve this further.
+Great job, Yiannis! Good body language, good pace and good knowledge. I like the fact that you suggested Innovation workshop to Forex Club totally makes scene.
+
+Good stuff Irene! Nice flow and pace, which makes it easier for the listener. Good to see you connecting the customer cases in there as well. Nice touch in making the examples around Alexa so easy to understand, e.g., "like someone at home"
+Dave, I really appreciate your time to customize the delivery to make it your own. I can see how you could use this pitch to create demand at TR.
+Efforts to do the pitch in English.
+Good knowledge overall. Good close/next steps and case studies
+Well related to the customer and clear next step
+Good use of facial expressions and varying your pace and tone to keep the audience engaged. Good use of customer examples.
+Great job, well informed pitch, good tone.
+Tom, good job with the project, the content and the delivery! I appreciate the time you took to make the content your own and deliver a targeted value statement to your customer. Well done! I also appreciate your bringing in Datalake, security, analysis and applications which are differentiated value statements for why AWS. Nice close!
+Paul, excellent job. Good overview and relation back to Amazon's long heritage in ML.
+A confident understanding of our storage and analytics capabilities, which was definitely the strongest element of your pitch. A nice engaging style. A well connected pitch with a good flow, and confidently delivered. Well done that man!
+Good job
+Great Job Thomas!
+Fiducioso. Buone transizioni Ben stimolato.
+Thought that Olivier came across as a trusted adviser versus someone with a sales pitch.
+Good presentation , fluent and structured way of presenting the topic. good closing and next step call to action. Well done!
+Nice job in covering the core topics asked for in this exercise. I liked how you personalized it at times showing that you weren't just following the canned approach. Congrats on earning your certificate!
+Romain, given you've only been on board a few weeks, this was a very good attempt!
+Very detailed with proper use cases.
+
+Nicely done, especially using the customer references.
+Nice overview, with good follow-up.
+Voice was clear and concise from a tone perspective.
+Very engaging introduction, a great story telling manner and well communicated pitch really helps win customers hearts and mind. Well researched, good attention to detail really credible. Loved the customer obsession Well done Isla
+Good job covering all points and wrapping it all up with the breadth of our platform. Overall I am super impressed for your 1st one. Great ending and next step recommendation.
+Great overall. Shows significant learning and understanding of AWS ML. You have a natural presenting style and keep the audience engaged.
+
+Love the set-up and making it specific to financial services. Great finserv examples. Really natural style.
+Very nice, natural delivery style Calvin, I especially liked the addition of your customer and how the services could be relevant to Gatwick airport.
+Parece que comprendiste el material.
+Great job Jonathan. I liked how you personalized your presentation to GSK and gave great customer examples, even expanding on pharmaceutical examples. You demonstrated that you had a strong understanding by not following the script word by word and spoke it from you own knowledge. Congrats on passing!
+Loved the use of the whiteboard. Super creative. Good understanding of customer examples. Smooth delivery. Nice work.
+Good work Chalita! I like the way you asked the question to start the pitch.
+Good job Chalita. You covered the details pretty well and brought in customer stories into the pitch.
+Great job, confident and fairly smooth conversation. Thank you for staying within 5 minutes.
+Good Presentation.
+ great overview of ML experience at Amazon and other customers (Zillow, pinterest, netflix, well structured to follow you through the three-tier AI/ML model like the separation of framework in different categories and examples
+1. Good usage of customer use cases 2. Good leveraging of the analytics solution 3. You spoke clear and put good emphasis on the major points
+Felipe, its not possible to evaluate properly your knowledge and engagement with the topic since the sales pitch seems to be a reading material.
+Firstly, loved your tone and manner which is very influential to the audience. Clear messaging about our intrinsic use of AWS ML, AWS ML stacks, and AWS Openness. Introductions of customer references did make strong support on your pitch.
+Sales pitch has power of influence and to this point I felt you speech is back by your confidence on AWS ML. Clear messaging of AWS ML value propositions. Customer reference stories were used where necessary. Good job!
+ Confirdent Very Clear! good next step proposal
+
+Well described , structured and well understood. good use of customer use case. good length of pitch and good next step and call to action
+Clearly laid out. Easy to follow. Confident.
+Perfect 
+Good examples using our case studies. Nice pacing and delivery.
+Solid pitch James. Provided great historical context and adequate detail on solutions and services through the stack. Eye contact was better as you got further into the message and tone was engaging through out.
+Clear, confident. Comes across as a trusted advisor.
+Very clear and personable Good understanding of ML
+
+Well done for really taking the challenge head on. Great positioning on the stack, in particular its introduction, and the array of customer examples you referenced resulted in an informative and provocative pitch. Well done Kate great attitude
+Clear understanding and explanation provided.
+Awesome job! You really understand ML!
+Good job! As you learn more, you'll be able to rely less on the script.
+Good use of case studies by coinciding them with each stack. Liked that it felt natural like you understand the fundamentals of ML.
+Good adoption of the script and hitting main speaking points.
+Clear articulation of the AWS AI/ML message.
+Great tone. Reach out to Kristina to see if you can be the sample for the next mission like Mike Murphy.
+Clear pitch in communication.
+Great job digging into the complexities of frameworks. Good job using customer examples for middle tier. Nice job extending into S3 and analytics. Good close and logical next steps.
+ very confident good examples about industry related areas extra mile here great introduction about AWS 3 layeres approach
+Good "revisited" pitch about ML & DL overall. Good use of the references.
+Good work on making this sound like a conversation. Good work on the speech in english. Customer cases are well presented. I like the explanation on the “frameworks AWS offers”. Great to hear about the Forbes magazine quotes. Well done.
+Strong introduction. Very well done! Good flow and transition among the different topics. I like how you introduce the customer case studies to support the 3 layers. This looks good and very naturel. Well done Gautier!
+So a lot of reading but interestingly you made it easy to listen to. you have a good style--pace, cadence, good use of personal mods/phrasing to make it a pitch that if I closed my eyes made sense. We've spoken about redoing when you have more time and have spoken about the mods you would make. good ideas on how to streamline and add more depths around each point. looking forward to it
+Good examples, good udnertstanding of value porposition and AWS ML history.
+good tone and flow, seemed natural, good use of customer BWW, knowledgeable on subject and suggestions in ML stacks.
+Great job Ken. I liked how you personalized it and it was clear that you understand the space and topic. You earned my trust that you were a SME. I also liked your closing where it was a compelling reason to take action and move to a follow-up meeting. Congrats on passing!
+Good confidence and use of case studies.
+
+Good job Susan. You know the content well, good use of customer examples and next steps
+Loved to listen to the flow of introduction of AWS ML Our own experience over 20 years and AWS ML 3 stacks, and they are supported by references. Good Job!
+gives clear examples on each ML layer
+Great connection to the customer's current state. Your Delta examples, specifically Alexa, were really strong in that you tied them into outcomes.
+Congrats for the first submission from the team! that is dedication esp when you are traveling. It is obvious that you have all the working knowledge for AWS ML for an account manager. Your talk is crisp clear and engaging. Thank you.
+Good customization to a specific customer Comes across knowledgeable on AI/ML Made me confident in choosing AWS for AI/ML Good use of case studies
+Nice job Ryan. You covered all of the key components required. You did a good job of convincing me you know the subject and were not reading from a script!
+Read too much off the script
+You know the content, conversant and put ML/DL in terms a customer, from the technical side and from the business, can understand. Gave relevant examples which underscored your points. Seemed passionate and excited about how these services could help your customer.
+Great knowledge about the AWS ML offerings. Very engaging and trustful pitch delivered with proper eye contact and confidence. Interesting and relevant use case.
+Easy to follow, good transitions.
+ORIGINAL VIDEO / https://broadcast.amazon.com/videos/75385 Pros: *Iunia resubmitted a video that met the 5min mark* You hit every topic in the ML pitch and were able to integrate it great with the use of examples, it helps the customer relate more to what you’re talking about
+
+Thank you for completing on time.
+Very clear voice and content is good.
+1) good coverage of the three layers 2) good use of customer stories, the more the better(CSPAN, Zillow, Pinterest etc well done) 3) good linkage of Alexa to Amazon Lex
+good pace, tone and engagement. overall understanding was there. fumbled a bit from reading.
+good description to Amazon history with ML and good customer use case. Good description of Tensorflow, Caffe and Apach MXnet use case description. spoke about datalake, security and analytics good inclusion of spectrum.
+Really like your style of telling a story it engages the customer, it was a well constructed narrative and was detail oriented so as to make it relevant. Overall well researched, which then translated into an informative pitch great job!
+Use customers reference for each layer and give examples of used cases for each service. Suggest next step.
+Clearly a well researched narrative with a particularly strong explanation around the machine learning framework and tools. I may be doing you a disservice but I sense it was mostly read, but what you did bring was a fantastic delivery style and you have a great manner about you; continue with that story telling style it works for you and will engender customer confidence in you. Liked the intro to Matt Wood nice touch!. A job well done Garry congrats
+Great flow to the narrative with a particularly strong introduction. "Can reshape how you do business" nice! Amazons ML heritage was well framed and your customer examples extremely relevant. Obvious you put a lot into the exercise and delivered a well informed pitch. A job well done Laura :-)
+Very good information and delivered clearly.
+Evidently well researched and super use of customer examples throughout. It was comprehensive in detail, well structured / with a good flow, and would resonate with customers. Well done Andras. Particularly liked the "we already have thousands of satisfied customers" how about calling them "delighted customers"
+Good undertstanding of AWS ML proposition, good examples
+Good composure and good flow. Good speech avoiding “…euh…” during the messaging. Good work on the eye contact. Case studies are well presented.
+Well done for really taking the task head on. It was obvious you had researched heavily which lent to an informed pitch. & really like the "genuinely caring hands' comment to close very customer obsessed.
+Great eye contact. Good use of case studies.
+The pre-work really paid off Ronan; well researched, an informed narrative and a good flow in your delivery. Excellent use of customer use cases for example 'I-translate' made it especially interesting. Love the way you personalized your language such as "guided by your vision, and not ours, and that's what makes AWS unique". A job well done :-)
+Enjoyed how you connected the details of how they might see ML in their daily life as well as how Amazon uses it to drive efficiencies.
+Nice job positioning Connect in the first layer! Overall great job!
+Muy bien estructurado tu mensaje, muy buena alineacion de los casos con el contexto del mensaje. Bueno esfuerzo y gracias.
+Mark very good indeed. especially considering your newness here. Good clear introduction, real examples at the start were strong it feels here and now, Good how explaining where it came from, great pace and clarity, liked to level = good for C level interaction v technical. obviously put your mark on it. linkage to cloud deliver nice.
+A very honest representation of yourself and our capabilities in machine learning, in particular the element around the tools available to practitioners and the choice we avail, and also your introductions to Lex/Polly/Rek. Good 'earns trust' demonstrated Josh well done
+
+Very good structured speech and style
+Decent understanding, good customer references and flow. Good next step.
+Nice on FINRA. Good one to learn. RIght framework for the right job. Nice. Like the Duolingo example. Good idea on hackathon as well
+Love your talk track! Super Natural! Love the punches in the pitch!
+Good command of the services.
+You covered all the topics and did a very good job in the beginning and end. The middle needs a bit of work in delivery only, not substance.
+Customer Obsession: provided case studies for each layer Competitive advantage: spoke about Amazon history and power of choice Good eye contact and good tone Summarized at the end
+Fascinated with flow of your pitch troduction of ML in general, AWS own ML history, openness to framework, and so forth. Timely took examples of AWS ML references, supporting your points. Your pitch is quite informative. Good job!
+Nice to listen to clear and concise introduction of AWS ML value propositions such as our internal use over long years and openness. Support your points by customer reference. Stable eye contact and vocal tone.
+Great eye contact and conversational pitch. Good use of case studies relevant to each layer and tying it to the customer scenario (Arbonne ecommerce) Good
+
+
+Good use of references and good flow between different parts / layers.
+great delivery very confident & engaging. You relate well to the ​customer.
+Good intro and role play scenario. Nice set-up on the 3 layers. Relaxed delivery but sounded somewhat scripted. Keep practicing and improving transitions and level of depth for each layer and overall platform differentiation.
+Nice job pulling customer use cases into the story. Casual starting conversation on ML
+Great customization. Examples reminded me something I knew : ) Well organized. Good timing.
+Very relevant to your customer
+Good pacing. I like the way you had a specific customer in mind as you walked through this. I like the positive call to action at the end! :)
+Failing you on purpose so that you can redo your mission as requested through support
+has a good knowledge of AWS ML strategy and good tone of speech
+Came across knowledgeable about AI/ML Good use of case studies Delivery kept me interested and engaged
+Spoke with great clarity & easy to understand. Demonstrated a good understanding of AWS ML services. Very composed as well.
+good confidence and examples
+Nice P2 reference! Great job including analytics, S3 and data lakes concept. Good job positioning next steps
+Nice pace and delivery Don and I like the proposed next steps
+has a good knowledge of AWS ML
+Well articulated, good understanding and story flow.
+Strong grasp of the ML industry and Great customer examples. Great explanation of the general categories of ML. very good speaking cadence
+loved how you personalized the pitch and delivered it in confident, easy to flow manner.
+You have all the key messages and case studies in the pitch
+Good pace and style points. Good edits and adds to streamline the pitch and get it to a good length. It's clear that you put the work in to make it a pitch vs a script. Like the addition in your close of "discussing patterns that we're seeing in your vertical"--good instinct to make it real for the customer
+great into and heritage of Amazon ML experience. bottom layer well done for the data scientist / deep practitioners Good transition to middle layer fully managed platform AWS ML is "icing on the cake" good job on S3 and analytics
+
+Good presentation.
+Great use of Bandlab across multiple levels (e.g., at framework level and when explaining Rekognition). Nice pace and clarity in the way you explain. Good stuff Hans!
+Mastered the content
+Great way of making the script your own, you didn't miss any of the key points great job! Good use of examples with finra, cspan and dualingo
+Enjoyed how you brought in how ML could be used in games/Olympics.
+Good job like the personalization!
+Nice job working Connect into the early phase! Good job referencing specific customers. Great job positioning next steps and follow up.
+good overall tone and conversational approach
+Mentioning "Customer-Choice", good examples (Berlin Dev-Centre) and Live-Demo, Eye-contact, Follow-up with Data-Scientists, length in scope
+Raja, I really like your delivery style, your tone and content. You did a great job of diving deep into use cases and then giving detail on each layer and function of services.
+Raja, thank you for recording the 2nd pitch! This was a fantastic demonstration of your talents telling a compelling story. Very nicely done with blending the story of customer successes along with the explanation of the 3 layers at AWS for AI/ML.
+Good content.
+Nice job!
+Good examples, good understanding of basic AWS ML basic value proposition
+Good introduction and very GREAT flow. Body language is good. Also the pace and tone sound great. Well done. Great presentation overall. Great story telling and good customer stories! (just need to package it into 5min) I like the way to speak about the Services. You make them sounds very exciting! Well done here again Nico.
+Great energy, body language and speech very clear. Good Job Nico. You made it a story telling and the presentation style is very good.
+Good work Vincent! Like the way you pace it and how you go down the different layers.
+Good content and next steps.
+Simple easy to follow. Like how you emphasize the important benefits and life changing case studies that are at each stack level.
+-great point and knowledge of specific instances optimized for ML workloads. Good hit on Tensorflow competitive point! AWS differentiation of ease of deployment and giving customers option Enabling developers to have access to same technologies. 
+
+Asumiendo que el mensaje que ofreces es correcto, pudieras generar confianza en el estio.
+Great positioning with Lumbers. Very positive style. Excellent use of same industry use cases and references. Good leading with components of layer as opposed to saying here's what's in layer X etc.
+Nice job
+Good customer examples. Decent next step.
+Liked how you personalized ML with their experience with their early experience with Amazon. Good transitions. Good confidence.
+Well done Tiffany! You have connected the manner in which AMZN uses ML in recommendations and discuss the 3 layers well.
+Good job Tiffany. Good to see you going into details and walking the listener through your examples as well. As you progressed through the pitch, you were flowing nicely though
+Great job! Love the personalization!
+The content and tone were great.
+customers examples, relevance to mining industry, set the scene well and communicated effectively
+Jon maintains good eye contact, and his setup "why Amazon knows ML" was compelling. It is obvious that he has learned the material and he comes across as credible.
+Very good pace. Well done on walking up the stack. Youhit all the major techs tht we provide.
+Nice pitch Josh! You tweaked the script to be your own and still hit all the key points with confidence, an engaging style, good eye contact.
+Timing was appropriate and you got through all of the concepts required for a complete pitch.
+Good references, overall description of the 3 layers
+Cover key messages. Friendly and focus on customer benefits
+Una vez que adquieras el conocimiento, te ayudara a obtener mas confianza al momento de entregar los mensajes. tienes un buen estilo y generas confianza Estudia,
+Appears that you took the script, learned the content, edited it, and made modifications to make it your own. covered the entire range of content in 5 min which isn't easy.
+Michael's presentation was too the point, coming in at 3:10. He had a decent set up (except for some constructive feedback below). His customer case studies and examples were solid and made the receiver of the information want to learn more.
+A concise narrative, competently delivered, with great customer references and use cases that would encourage a follow up discussion
+Nice job weaving in Zillow and Netflix. Great job including analytics and data lake concepts
+Good job, Muge! Good pace, good next steps (POC) and good knowledge.
+good intro, great pace. clear that you took the script, edited it, flipped it to make it flow better for you. Nice job punching up the BV impact in the customer stories. nice transition to overlay functions (s3, etc)
+Good application of AI/ML to Geico specific use cases.
+Nice job calling out Zillow. Great job weaving the Lex and Polly into the Connect story. Good job transitioning into S3, Data Lakes and analytics. Good next steps.
+Great work Meena! Really like the pace you take the pitch, very easy for the listener to keep track just the right speed. Good touch on the different services at different layers. Also, like the way you brought in Dualingo to talk about Polly.
+Kudos for finishing first!
+Your pitch was delivered with a great fluency, you have obviously understood the key talking points and used all of them during your talk. You stayed well connected with your audience and I never felt that you are reading from a paper in front of you. Overall a great job very well done, Christian!
+ Really good tone and pacing. You have a really good engagement style! Very good transition of content, it felt natural when you changed topics Good overview of our products and customer case studies Great S3 integration content Good follow-up, especially good to reference the workshop!
+Love how you thought out of the box and created a real customer role play, confirming your understanding of the customer challenges and customizing the conversation to fit their needs; great utilization of customer use cases that fit the customer's specific needs
+
+Good effort Lisa! Good voice projection. You will get better with more practices.
+
+Thank you for completing on time.
+Awesome! The whole delivery was outstanding, not much else to say!
+Great use of customer examples Netflix, Expedia and Bandlab Very calm and measured delivery
+Very good.
+Very engaging and personalized, not just reading from script. Natural.
+If Doug wrote this script ,then that means you put a talk track in place which shows an investment in time as it was not verbatim from what was provided (although close). The content hits the right timeline of 3.5 min. Doug used a closing statement consistent with the script.
+Great work Doug, the alignment of the three levels and Paul's needs was strong. I know you will be more confident to have this conversation now that you put the time in to learn this material. I liked the blindness example as well when reviewing the use cases, and how you then tied it to Lowes card transaction processing. The "What If" statement was powerful.
+Excellent job making applicable to customer
+Good pacing. Good use of case studies. Good call to action. Nice job.
+Good understanding of ML solutions
+very nice! very good pace. good transition into the three-layer part of the pitch and nice additions to the middle layer conversation. you clearly spent time with the script and added elements--pauses, emphasis points, tech reinforcement--that made it real. Engaging style--good energy, confidence, eye contact. Nice tech addition to the "middle layer". overall very good job.
+I LOVE the way you made this personal for Monsanto. Very good reference with Pinterest. You didn't just name drop you provided some good details. I like the way you made this your own.
+Comprehensive pitch covering customer use cases in each of the 3 different layers, pointing their differences in clear way. Naomi shows she has practiced, has achieved proper level of knowledge and is ready to talk about ML with customers. Set next steps with customer.
+Good content and pitch Good use of local and global case studies
+Great pitch , good eye contact. well described and understood. Good pitch length . good next step and call to action . Well done!
+Nice Job! Love the Suit! You back a good pitch punch.
+Your content, grasp of the concepts and use of customer example is excellent. You did not use redundant words and were very clear on each layer description.
+Good understanding of AWS ML basics and use cases.
+Well done Guillaume. Good ability to build your own story. Good examples that relate to our customers.
+*Francois emailed me the video separately as he couldn't edit it herein*; Great way of making the script your own; your delivery was in a way that would make a customer feel comfortable and was easy to understand.
+
+Good pitch. I'd suggest making it your own and thinking about a specific customer and how you'd tailor it for them.
+Conversant, not scripted. Easy to understand and provided relevant customer references and examples that underscore the points you made. Under 5 min.
+Engaging and execution oriented next steps.
+
+
+Great deal of poise, good use of examples, didn't read from script, good flow between segments.
+Very confident and composed easy to understand. Good explanation of AWS competitive advantage and use of customer examples. I liked your connection to ML/AI solving customer problems
+Good study of the materials, eye contact, and delivery. I think you learned the material and are better prepared to have this discussion with customers in the future. I like the way you wrapped on the three layers.
+Enjoyed how you kicked it off with personal way we use ML at Amazon. Came across as a trusted advisor.
+Thank you for completing on time.
+Good flow, good speed of information sharing and very clear speaking. I like the BMW Alexa connection, shows local wins and that ML is already around us.
+good flow, pace, engaging. setting up meeting and next steps.
+Good transitions from one part of the conversations to the next.
+Sounds very smooth for only a week on board Great use of customer examples and the history Good use of the script
+Good passion about AWS ML. I enjoyed this very much because of its story line. It was easy to follow.
+Speak with great pace and great effort in trying to expain in not your first language. Mostly speaking to the audience despite this being a recording.
+Very engaging, clear and concise and really help the client understand which model may work for them. Marked improvement from the last version.
+Liked how you related it to their level of maturity as the intro statement. Like that you related each level of the stack to what the client has/has not. And that you pointed out what was important at each level of the stack. Very simple and easy to follow.
+Confidente. Buenas transiciones.
+Really enjoyed listening to this. It seemed natural and simple. Easy for me to follow along because of the transitions that you used. As a result, it felt like you really believed in ML.
+All services covered. Established Amazon credibility in AI/ML early on with multiple examples from Amazon various business.
+Great pace, level of details and clear explanation on our offering.
+
+Good transitions from topic to topic. Simple and easy to understand.
+I thought Sze Lok prepped well on the material especially how he has delivered the case studies. Lots of details and helped keep the audience engaged.
+
+
+
+Good Communication, confidence and technical explanation about AWS services, referring to important use cases.
+Clear content, High confidence and personal engagement. You successfully mentioned the main use cases and related them with the ML Layers and services.
+Clear communication and good engagement
+Good customer cases which bring lot of value. Could explain different layers and services for each one.
+Confiante. Boas transições.
+Speaks very clearly, with great interaction with customers! Very good cases from customers that bring a lot of value.
+Speaks clearly and confident. Detailed the 3 different layers of customers. Very good cases from customers that bring a lot of value.
+Good introduction. Speaks very clearly, with great interaction with customers and could explain easily the different layers and with customers cases for each one.
+Excelente sintese e apresentacao da ideia geral de AI. Parabens, bj
+Parabens, excente sintese do assunto
